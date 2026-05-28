@@ -1,0 +1,3001 @@
+nome,estado,cidade,lat,lon,plano,mensalidade
+Lara Sampaio,PE,Recife,-8.0476,-34.877,1GB,199
+Calebe Camargo,BA,Salvador,-12.9714,-38.5014,1GB,199
+Arthur da Mota,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+João Guilherme Montenegro,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Luiz Miguel Câmara,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Lavínia Sales,PE,Recife,-8.0476,-34.877,100MB,99
+José Miguel Souza,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Evelyn Castro,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Murilo Castro,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Natália da Rocha,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Rael Cunha,BA,Salvador,-12.9714,-38.5014,500MB,159
+Srta. Esther Machado,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sra. Maria Flor Pimenta,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maitê Nunes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Melina da Rosa,PE,Recife,-8.0476,-34.877,300MB,129
+Sr. Leandro Teixeira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Helena Casa Grande,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sra. Ana Liz Rezende,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Yasmin Cirino,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Maria Macedo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sra. Sarah Mendonça,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Maria Luísa Ferreira,PE,Recife,-8.0476,-34.877,100MB,99
+Maria Helena Pimenta,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Alice Pacheco,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Antônio Farias,PE,Recife,-8.0476,-34.877,100MB,99
+Eloá Gomes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. Otávio Rocha,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Liam Pimenta,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Ravi Sampaio,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Ana Julia Teixeira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Caio Casa Grande,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dr. Alexandre Pastor,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Lucca da Cruz,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Alexia Almeida,PE,Recife,-8.0476,-34.877,1GB,199
+Lucas Gabriel da Cunha,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Felipe Monteiro,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Enzo Gabriel Vieira,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Liam Viana,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Heloísa Correia,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Davi Miguel Moura,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Breno Macedo,BA,Salvador,-12.9714,-38.5014,500MB,159
+Ana Cecília Costa,PE,Recife,-8.0476,-34.877,1GB,199
+Antony Barros,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Oliver Barros,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Luiz Otávio Castro,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Maria Eduarda Ribeiro,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Antonella Albuquerque,BA,Salvador,-12.9714,-38.5014,100MB,99
+Pietra Siqueira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Maria Fernanda Nogueira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ana Clara Santos,BA,Salvador,-12.9714,-38.5014,500MB,159
+Dra. Mariana Araújo,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Daniel Ribeiro,PE,Recife,-8.0476,-34.877,1GB,199
+Luna Pimenta,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Leandro da Cunha,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Pietro Caldeira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Heitor Siqueira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+João Miguel Aparecida,PE,Recife,-8.0476,-34.877,300MB,129
+Rhavi Azevedo,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Eloá Albuquerque,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ágatha Guerra,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Alexia Castro,BA,Salvador,-12.9714,-38.5014,1GB,199
+Danilo Novaes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Aylla da Costa,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Felipe Cunha,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Dra. Cecilia Fernandes,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Maria Alice Camargo,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Oliver Nascimento,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Alexia Porto,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Pedro Correia,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Esther Câmara,PE,Recife,-8.0476,-34.877,500MB,159
+Bruno Nogueira,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sr. Enzo Gabriel Nascimento,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sra. Cecília Moraes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Luna Novaes,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maria Laura Sampaio,PE,Recife,-8.0476,-34.877,300MB,129
+Marcos Vinicius Porto,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Elisa Melo,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Dr. Arthur Gabriel Vargas,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Isabel Pacheco,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+João Felipe Cassiano,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Francisco Gonçalves,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Theo Moreira,BA,Salvador,-12.9714,-38.5014,1GB,199
+João Vitor Sousa,PE,Recife,-8.0476,-34.877,1GB,199
+Enrico Nogueira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Pedro Miguel Fonseca,PE,Recife,-8.0476,-34.877,500MB,159
+Sophie Sá,BA,Salvador,-12.9714,-38.5014,300MB,129
+Lucas Gabriel Carvalho,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Lucas Gabriel Mendonça,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dr. João Felipe Pastor,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Rafaela Novaes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Vinícius Guerra,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Mirella Nunes,BA,Salvador,-12.9714,-38.5014,300MB,129
+João Pastor,PE,Recife,-8.0476,-34.877,1GB,199
+Raquel Araújo,BA,Salvador,-12.9714,-38.5014,1GB,199
+Sr. Leandro Sousa,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Dr. Samuel Azevedo,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ana Clara Azevedo,PE,Recife,-8.0476,-34.877,100MB,99
+Pedro Lucas Montenegro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Maria Helena Pastor,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Antônio Ramos,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sra. Eloah Camargo,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dr. Heitor Silveira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Giovanna Cardoso,PE,Recife,-8.0476,-34.877,1GB,199
+Mariana Gonçalves,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Asafe Casa Grande,PE,Recife,-8.0476,-34.877,1GB,199
+Arthur Miguel Porto,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Bruna Mendonça,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Flor Cavalcante,BA,Salvador,-12.9714,-38.5014,300MB,129
+Aylla Porto,BA,Salvador,-12.9714,-38.5014,500MB,159
+Ísis Rocha,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Sr. Guilherme da Costa,PE,Recife,-8.0476,-34.877,500MB,159
+Clarice da Cunha,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sr. Eduardo da Costa,BA,Salvador,-12.9714,-38.5014,100MB,99
+Lorena Cirino,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Otto Marques,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Vinicius Moura,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Emilly Novais,PE,Recife,-8.0476,-34.877,500MB,159
+Thales da Cruz,PE,Recife,-8.0476,-34.877,300MB,129
+Lorenzo Farias,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Yago Machado,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Vicente Cassiano,BA,Salvador,-12.9714,-38.5014,300MB,129
+Arthur Miguel Peixoto,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Thiago Mendonça,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Eduarda Cardoso,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Rhavi Câmara,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dr. Heitor Ramos,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Luan Nunes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Enzo Gabriel Aragão,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Nathan Pereira,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sra. Evelyn Monteiro,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Rodrigo Rocha,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Henrique Casa Grande,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Sofia Almeida,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sra. Emilly Moura,BA,Salvador,-12.9714,-38.5014,300MB,129
+Srta. Sofia Ramos,PE,Recife,-8.0476,-34.877,100MB,99
+Maysa Viana,BA,Salvador,-12.9714,-38.5014,500MB,159
+Arthur Gabriel Moreira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Thales Moraes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Vinicius Lopes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maria Luiza Rodrigues,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Antônio Andrade,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Bento Vasconcelos,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Paulo das Neves,BA,Salvador,-12.9714,-38.5014,1GB,199
+Aurora Marques,PE,Recife,-8.0476,-34.877,300MB,129
+Srta. Isabelly Cavalcanti,PE,Recife,-8.0476,-34.877,1GB,199
+Bella Pimenta,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Isabela Freitas,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Clarice Santos,PE,Recife,-8.0476,-34.877,500MB,159
+Sr. Marcelo Leão,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Maria Vitória Câmara,BA,Salvador,-12.9714,-38.5014,500MB,159
+Rafaela Novaes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Camila Farias,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Srta. Pietra Moraes,PE,Recife,-8.0476,-34.877,500MB,159
+Maysa Brito,BA,Salvador,-12.9714,-38.5014,1GB,199
+Emanuelly Azevedo,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Clarice Novaes,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Liz Pereira,PE,Recife,-8.0476,-34.877,100MB,99
+Dr. Luiz Gustavo Marques,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Fernando Moraes,BA,Salvador,-12.9714,-38.5014,300MB,129
+Ana Beatriz Rocha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Sra. Gabriela Almeida,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Sabrina Garcia,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Ana Araújo,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Zoe Silveira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Noah Novaes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Isaque Silva,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Sra. Maria Luísa Ribeiro,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Alana Jesus,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Pedro Cunha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maria Vitória Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Diogo Carvalho,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Leandro Macedo,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Anthony Porto,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Manuella Farias,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sr. Yuri da Mota,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Lara da Cruz,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Lavínia Leão,PE,Recife,-8.0476,-34.877,1GB,199
+Sra. Ana Luiza Correia,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Alexandre Guerra,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Julia Carvalho,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Dr. Mathias da Conceição,BA,Salvador,-12.9714,-38.5014,100MB,99
+Josué Vieira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Dra. Larissa Ferreira,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sr. Rodrigo Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Rhavi Câmara,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Ryan Machado,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Maria Helena Sampaio,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Fernando Gonçalves,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Letícia Aparecida,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Alana Oliveira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sra. Juliana Macedo,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Alice Dias,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Dra. Alícia Sousa,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sra. Lavínia Moreira,PE,Recife,-8.0476,-34.877,500MB,159
+Olívia Monteiro,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sr. Emanuel Nunes,PE,Recife,-8.0476,-34.877,1GB,199
+Calebe das Neves,BA,Salvador,-12.9714,-38.5014,1GB,199
+Jade Rios,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dr. Luiz Felipe da Paz,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Pedro Melo,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Sra. Nicole da Paz,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Melissa Castro,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Valentim Oliveira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Manuela Marques,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ravi Lucca Fernandes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dra. Ágatha Azevedo,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Apollo Leão,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ravi Lucca Caldeira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Maya Martins,PE,Recife,-8.0476,-34.877,300MB,129
+Zoe Mendes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Srta. Lunna Barbosa,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Matteo Martins,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Davi Luiz Monteiro,BA,Salvador,-12.9714,-38.5014,500MB,159
+Eloah Martins,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Ana Beatriz da Mota,PE,Recife,-8.0476,-34.877,1GB,199
+Zoe da Luz,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+João Rios,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Vitória Jesus,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Dr. Luiz Fernando Almeida,PR,Curitiba,-25.4284,-49.2733,500MB,159
+João Gabriel Fogaça,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Maria Júlia Peixoto,BA,Salvador,-12.9714,-38.5014,1GB,199
+Nicole Moura,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Luana Casa Grande,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Mathias Gomes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Luiz Henrique Freitas,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Cauê Pinto,BA,Salvador,-12.9714,-38.5014,500MB,159
+Gabrielly Almeida,PE,Recife,-8.0476,-34.877,300MB,129
+Dra. Heloísa da Mota,PE,Recife,-8.0476,-34.877,100MB,99
+André Rezende,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Zoe da Rosa,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Maria Liz Sampaio,BA,Salvador,-12.9714,-38.5014,300MB,129
+Liz Costa,BA,Salvador,-12.9714,-38.5014,300MB,129
+Manuela Fogaça,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Theodoro Fogaça,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Yan Santos,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Thiago Barbosa,PE,Recife,-8.0476,-34.877,100MB,99
+Vitor Barbosa,PE,Recife,-8.0476,-34.877,300MB,129
+Dr. Théo Costa,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Bruna Aparecida,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+José Pimenta,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Bernardo Mendonça,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Maria Liz Castro,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sara Duarte,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Raul Albuquerque,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Luiz Miguel Barbosa,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maria Eduarda Moreira,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Stella Cavalcante,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maitê Carvalho,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Eduarda Moraes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Dra. Pietra Siqueira,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Alexia Rezende,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Kevin Andrade,BA,Salvador,-12.9714,-38.5014,500MB,159
+Davi Lucas Costela,PE,Recife,-8.0476,-34.877,300MB,129
+Joana das Neves,BA,Salvador,-12.9714,-38.5014,300MB,129
+Srta. Isabelly Carvalho,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Clara Novaes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Gael Henrique Duarte,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Henrique Gomes,PE,Recife,-8.0476,-34.877,100MB,99
+Lucas Gabriel Câmara,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Bruno Silva,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sofia Abreu,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sr. José Pedro da Cunha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Davi Miguel Almeida,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Igor Campos,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sofia Camargo,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Maria Alice Andrade,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Zoe Almeida,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Srta. Maria Vitória Cirino,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Ryan Azevedo,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Zoe Moura,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sr. Augusto Brito,BA,Salvador,-12.9714,-38.5014,1GB,199
+Maria Laura Camargo,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Ana Vitória Gomes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Catarina Machado,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sra. Ayla Cardoso,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Luísa Campos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Sarah Castro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Matheus Brito,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Clarice Lopes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dr. Oliver Novais,PE,Recife,-8.0476,-34.877,1GB,199
+Benicio Dias,BA,Salvador,-12.9714,-38.5014,1GB,199
+Yago Caldeira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Otto Sousa,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Clarice da Paz,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Helena da Cunha,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Levi da Paz,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Rhavi Lopes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Hellena Brito,BA,Salvador,-12.9714,-38.5014,500MB,159
+Srta. Luara da Paz,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Letícia da Mota,PE,Recife,-8.0476,-34.877,500MB,159
+Cauê Carvalho,PR,Curitiba,-25.4284,-49.2733,300MB,129
+José Miguel Farias,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Bernardo da Cruz,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Isabela Alves,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Léo Azevedo,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Bernardo Sampaio,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Arthur Miguel Silveira,PE,Recife,-8.0476,-34.877,300MB,129
+Larissa Campos,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Vitor Hugo Porto,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Davi Peixoto,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Matheus da Mota,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dra. Manuella Azevedo,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Dr. Vitor Lima,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Davi da Conceição,BA,Salvador,-12.9714,-38.5014,300MB,129
+Hellena Peixoto,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Alexandre Marques,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Manuella das Neves,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Dra. Rebeca Silveira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Marcelo Sampaio,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Marina Teixeira,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sofia Fonseca,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Rael Duarte,BA,Salvador,-12.9714,-38.5014,100MB,99
+Sra. Sofia das Neves,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Yasmin Câmara,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Ana Julia Guerra,BA,Salvador,-12.9714,-38.5014,500MB,159
+Cecília Silva,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Ana Laura Costa,PE,Recife,-8.0476,-34.877,1GB,199
+Dr. José Miguel Melo,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Rhavi Garcia,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Luna Cassiano,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. Ravi Lucca Cardoso,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Natália Macedo,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Henry Monteiro,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Murilo da Mota,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Maria Luísa Rezende,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Camila Oliveira,BA,Salvador,-12.9714,-38.5014,100MB,99
+Lorena Pimenta,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Levi Fonseca,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Dr. Thales Castro,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Marcelo Fogaça,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Kevin Barros,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Theo Rios,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Valentina Macedo,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dra. Isis Vargas,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sra. Hellena Costa,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Mariana Marques,PE,Recife,-8.0476,-34.877,100MB,99
+Larissa Costela,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Lívia Marques,BA,Salvador,-12.9714,-38.5014,300MB,129
+Mariana Dias,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Allana Cavalcanti,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Lorenzo da Rosa,BA,Salvador,-12.9714,-38.5014,500MB,159
+Bruna Nunes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Evelyn da Cruz,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Emanuella Azevedo,BA,Salvador,-12.9714,-38.5014,300MB,129
+Mirella Borges,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Yago Sá,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Emilly Gonçalves,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Stella Siqueira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Srta. Nicole Rodrigues,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Luiz Gustavo da Cunha,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sr. Henry Santos,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Yago Vasconcelos,PE,Recife,-8.0476,-34.877,300MB,129
+Gabrielly da Rosa,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Cauã Borges,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Ana Cecília Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Stephany da Cunha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Davi Lucas Cassiano,PE,Recife,-8.0476,-34.877,300MB,129
+Sr. Bento Lima,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Pietro Sá,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Pedro Lucas da Costa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Lucas Gabriel Pereira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Mirella Câmara,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Felipe Ramos,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Hadassa Dias,BA,Salvador,-12.9714,-38.5014,1GB,199
+Stella Costa,PE,Recife,-8.0476,-34.877,100MB,99
+Maria Vitória Lopes,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Cauê Fernandes,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Dra. Eloah Fonseca,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Kevin Mendonça,BA,Salvador,-12.9714,-38.5014,100MB,99
+Sr. Isaque Cardoso,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Elisa Nogueira,BA,Salvador,-12.9714,-38.5014,500MB,159
+Raquel Aparecida,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Ana Beatriz Costela,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Luiz Fernando Cardoso,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Luiz Felipe Araújo,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Valentim Mendonça,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maria Helena Camargo,BA,Salvador,-12.9714,-38.5014,100MB,99
+Sr. Ravi Pacheco,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Lucas Gabriel da Mota,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Emanuelly Guerra,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Luiz Otávio das Neves,PE,Recife,-8.0476,-34.877,1GB,199
+Elisa Brito,BA,Salvador,-12.9714,-38.5014,500MB,159
+Dra. Maria Clara Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Juliana Duarte,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Rodrigo Dias,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Olivia Sá,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Srta. Nina Vargas,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Maria Luísa Farias,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Thales Monteiro,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Daniel Caldeira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Isabella Castro,PE,Recife,-8.0476,-34.877,300MB,129
+João Guilherme Lima,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Milena Carvalho,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Pedro Miguel Moreira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Srta. Mariah Siqueira,PE,Recife,-8.0476,-34.877,300MB,129
+Sra. Lara Cavalcanti,BA,Salvador,-12.9714,-38.5014,500MB,159
+Nina Andrade,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Lara Moreira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Srta. Gabrielly Castro,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Anna Liz Cavalcante,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ravy Farias,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Vicente Monteiro,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Olivia Cirino,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Heitor Souza,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Leonardo das Neves,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Srta. Ana Laura Marques,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Laura Santos,PE,Recife,-8.0476,-34.877,500MB,159
+Diogo Aragão,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Danilo Camargo,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Heitor Pereira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Lorena Pinto,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Enrico Cavalcanti,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Bruno Silva,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Leandro Teixeira,PE,Recife,-8.0476,-34.877,100MB,99
+Isaac Pires,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Diego Teixeira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Caroline da Rocha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Dr. Otto Costela,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Mirella Santos,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Larissa Moreira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Lívia Mendonça,BA,Salvador,-12.9714,-38.5014,300MB,129
+Cecilia Marques,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Ravi Freitas,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Asafe Campos,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Srta. Giovanna Andrade,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Manuella Nogueira,BA,Salvador,-12.9714,-38.5014,500MB,159
+Marcelo Correia,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Pedro Lucas Marques,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Olivia Moraes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Jade Alves,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Sara Carvalho,PE,Recife,-8.0476,-34.877,1GB,199
+Sr. Thales Farias,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sr. Pedro Lucas Fernandes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Mariana Aragão,BA,Salvador,-12.9714,-38.5014,300MB,129
+Juliana Moura,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dra. Lunna Sampaio,BA,Salvador,-12.9714,-38.5014,500MB,159
+Guilherme Albuquerque,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Marina Albuquerque,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maya Martins,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Pedro Miguel Barbosa,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Ana Vitória Silva,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Isabela Moura,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Manuella da Cunha,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dra. Stella Montenegro,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Antonella Lopes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Maria Cecília Araújo,PE,Recife,-8.0476,-34.877,500MB,159
+Yasmin Casa Grande,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+João Lucas Moura,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Valentina Mendes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dra. Isadora Cirino,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Emanuelly Pinto,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ayla da Luz,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Laura Vieira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ana Beatriz Marques,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Vinicius Viana,PE,Recife,-8.0476,-34.877,100MB,99
+Dra. Hadassa Santos,PE,Recife,-8.0476,-34.877,300MB,129
+Lorena Pimenta,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dra. Ana Júlia da Costa,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Zoe Macedo,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maya Teixeira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Isaque Câmara,PE,Recife,-8.0476,-34.877,300MB,129
+Anthony Gabriel da Mata,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Ana Clara Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Luana da Rocha,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Bernardo da Paz,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Manuella da Mota,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Stephany da Paz,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Anna Liz Almeida,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sophia Pastor,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Thomas da Luz,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Helena da Conceição,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Eduardo Almeida,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Bianca Pimenta,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Dra. Maria Isis Guerra,BA,Salvador,-12.9714,-38.5014,500MB,159
+Isaque Sá,PE,Recife,-8.0476,-34.877,300MB,129
+Sr. Joaquim Borges,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Lara Casa Grande,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Noah Freitas,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ana Liz Sousa,PE,Recife,-8.0476,-34.877,100MB,99
+Sophia Pacheco,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Dr. Antônio da Mota,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Diogo Castro,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Luiz Gustavo Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Melissa Rocha,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Manuella Farias,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Dra. Raquel Sá,BA,Salvador,-12.9714,-38.5014,1GB,199
+Caleb Costela,BA,Salvador,-12.9714,-38.5014,500MB,159
+Diogo Peixoto,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Rafael Pinto,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Nina Moreira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Mariane Santos,PE,Recife,-8.0476,-34.877,300MB,129
+Mariane Martins,SP,São Paulo,-23.5505,-46.6333,300MB,129
+João Gabriel Cirino,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Eloah da Rocha,PE,Recife,-8.0476,-34.877,300MB,129
+Sr. Vitor Hugo da Conceição,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sr. Gael Moraes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Luiz Fernando Gonçalves,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Sara Cunha,BA,Salvador,-12.9714,-38.5014,1GB,199
+Yago Nogueira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sra. Ana Laura Castro,PE,Recife,-8.0476,-34.877,500MB,159
+Heloísa Correia,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ester da Rocha,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Stella Moraes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Arthur Miguel Moura,PE,Recife,-8.0476,-34.877,100MB,99
+Arthur Gabriel Albuquerque,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Miguel Vasconcelos,BA,Salvador,-12.9714,-38.5014,100MB,99
+Paulo Rezende,BA,Salvador,-12.9714,-38.5014,100MB,99
+Dra. Isabelly Marques,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Rhavi Andrade,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Luan da Rosa,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sr. Cauê Cunha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sr. Bento Mendes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Vitória Aparecida,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Caio Aragão,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Thiago da Mota,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Maria Julia Marques,BA,Salvador,-12.9714,-38.5014,500MB,159
+Olivia Marques,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Milena Cavalcante,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Evelyn Nascimento,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Maria Luísa Nogueira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Isis Leão,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Miguel Aparecida,BA,Salvador,-12.9714,-38.5014,1GB,199
+Luan Nascimento,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Lavínia Rocha,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Luan Fernandes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Gael Henrique Cassiano,BA,Salvador,-12.9714,-38.5014,1GB,199
+Nina Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Gabriela da Cruz,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Mateus Guerra,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Bento Cavalcante,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Luiz Felipe Duarte,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Thales Abreu,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Maria Flor da Mota,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Augusto Rocha,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Maitê Oliveira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Srta. Ana Carolina Freitas,BA,Salvador,-12.9714,-38.5014,500MB,159
+Clarice Guerra,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Emanuella Martins,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Luiz Miguel Andrade,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Ana Clara Rodrigues,PE,Recife,-8.0476,-34.877,300MB,129
+Isis Nunes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dr. Caleb Duarte,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Isadora Gonçalves,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Rodrigo Sousa,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Cauê Correia,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Vitória Oliveira,PE,Recife,-8.0476,-34.877,100MB,99
+Dra. Manuela Silveira,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Flor Câmara,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Benicio Rocha,BA,Salvador,-12.9714,-38.5014,100MB,99
+Srta. Camila Freitas,BA,Salvador,-12.9714,-38.5014,100MB,99
+Ana Beatriz da Luz,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Sophia Cavalcante,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Daniel Souza,PE,Recife,-8.0476,-34.877,300MB,129
+Dr. Vitor Gabriel Machado,PE,Recife,-8.0476,-34.877,100MB,99
+Maria Fernanda Lopes,PE,Recife,-8.0476,-34.877,1GB,199
+Srta. Bruna Peixoto,BA,Salvador,-12.9714,-38.5014,300MB,129
+Dra. Sophia Nascimento,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Gabriel Pimenta,PE,Recife,-8.0476,-34.877,300MB,129
+Anthony da Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Beatriz Dias,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Amanda Cirino,PE,Recife,-8.0476,-34.877,100MB,99
+Luísa Ferreira,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Enrico Araújo,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+João Miguel Souza,BA,Salvador,-12.9714,-38.5014,1GB,199
+Alana Ramos,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Dra. Alexia Azevedo,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Daniel Lopes,BA,Salvador,-12.9714,-38.5014,100MB,99
+Antônio Cassiano,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Matteo Mendes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Sra. Hadassa Carvalho,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Ana Beatriz Peixoto,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sr. Théo Alves,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maitê Freitas,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dra. Ana Cecília Carvalho,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sr. Enzo Gabriel Costa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maria Julia Ferreira,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Isis Casa Grande,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dra. Stephany Sousa,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Maria Alice Montenegro,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Davi Lucas Rocha,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Lavínia Cavalcanti,BA,Salvador,-12.9714,-38.5014,100MB,99
+Lavínia Farias,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Theo Correia,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Anna Liz Abreu,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Noah Duarte,BA,Salvador,-12.9714,-38.5014,500MB,159
+Calebe Peixoto,BA,Salvador,-12.9714,-38.5014,300MB,129
+Ester Pires,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Leonardo da Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Jade Vargas,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Benício Abreu,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Bento Pinto,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Caio Rocha,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Bárbara Albuquerque,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Bryan Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sr. Nathan Silveira,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Laís Porto,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Pedro Miguel Correia,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Lara Sousa,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Luna Rocha,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sr. Anthony Gabriel Garcia,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Ana Martins,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Davi Luiz Rodrigues,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Pedro Miguel Freitas,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Hadassa Cardoso,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Paulo Souza,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Paulo Ferreira,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Enzo Gabriel Pastor,PE,Recife,-8.0476,-34.877,500MB,159
+Beatriz Almeida,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sra. Daniela Pimenta,PE,Recife,-8.0476,-34.877,100MB,99
+Srta. Amanda Machado,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Luísa Mendes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Nicolas Albuquerque,BA,Salvador,-12.9714,-38.5014,100MB,99
+Vitor Hugo Gomes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Vitória Silveira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Isabela Mendes,BA,Salvador,-12.9714,-38.5014,300MB,129
+Valentina Albuquerque,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sr. Felipe Farias,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Srta. Hadassa Castro,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Dr. Levi Vasconcelos,PE,Recife,-8.0476,-34.877,100MB,99
+Matheus Barros,PE,Recife,-8.0476,-34.877,500MB,159
+Danilo da Conceição,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. Fernando da Cunha,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Miguel Pereira,BA,Salvador,-12.9714,-38.5014,100MB,99
+Nicolas Dias,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Ana Carolina Santos,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sr. Valentim Oliveira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dra. Milena Leão,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Aylla Freitas,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sofia Mendes,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Lívia Albuquerque,BA,Salvador,-12.9714,-38.5014,100MB,99
+Juan Farias,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sr. Pedro Miguel Cirino,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Nicolas da Conceição,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Nathan Caldeira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Ana Lívia Oliveira,PE,Recife,-8.0476,-34.877,500MB,159
+Eloá Barbosa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Asafe Pacheco,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Sophia Pinto,PE,Recife,-8.0476,-34.877,500MB,159
+Stephany Freitas,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Bárbara Souza,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Isaque Pinto,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Enrico Fogaça,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sr. Theodoro Pimenta,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Benjamin Rodrigues,BA,Salvador,-12.9714,-38.5014,1GB,199
+Luiz Fernando Camargo,PE,Recife,-8.0476,-34.877,1GB,199
+Pedro Miguel Lopes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Allana Silveira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Zoe Vieira,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Cecília Pires,PE,Recife,-8.0476,-34.877,1GB,199
+João Felipe Almeida,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Miguel Macedo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Yuri Cavalcanti,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Ian Garcia,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Dr. Yuri Souza,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Luísa Moreira,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Nathan Pastor,SP,São Paulo,-23.5505,-46.6333,300MB,129
+João Marques,PR,Curitiba,-25.4284,-49.2733,1GB,199
+João Guilherme Melo,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sr. Pedro Miguel Viana,BA,Salvador,-12.9714,-38.5014,300MB,129
+Mariana Monteiro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Lara da Cruz,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Kevin Rodrigues,PE,Recife,-8.0476,-34.877,1GB,199
+Maria Vitória Mendonça,PE,Recife,-8.0476,-34.877,100MB,99
+Sr. Gael Henrique Pinto,PE,Recife,-8.0476,-34.877,300MB,129
+Caroline Fernandes,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Srta. Maria Liz Peixoto,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sophie Campos,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Isabel Costa,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Noah Andrade,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Henrique da Rocha,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Diego da Paz,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Léo Cunha,BA,Salvador,-12.9714,-38.5014,100MB,99
+Isaac Ramos,BA,Salvador,-12.9714,-38.5014,1GB,199
+Luiz Miguel Cavalcanti,PE,Recife,-8.0476,-34.877,300MB,129
+Arthur Casa Grande,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sr. Paulo Barbosa,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Rael Lopes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Pedro Lucas Albuquerque,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Enzo da Luz,BA,Salvador,-12.9714,-38.5014,500MB,159
+Marcos Vinicius Campos,PE,Recife,-8.0476,-34.877,1GB,199
+Eloah Teixeira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Caio Duarte,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Ravi Freitas,PE,Recife,-8.0476,-34.877,1GB,199
+Dr. Heitor Vieira,BA,Salvador,-12.9714,-38.5014,100MB,99
+Alana Mendonça,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Camila Ferreira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Agatha Camargo,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Sra. Julia Souza,PE,Recife,-8.0476,-34.877,300MB,129
+João Lucas Brito,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Luiza Garcia,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Vinícius Campos,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Benicio Ramos,BA,Salvador,-12.9714,-38.5014,300MB,129
+Srta. Maria Vitória Mendes,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sr. Thales Lopes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Stephany Marques,PE,Recife,-8.0476,-34.877,500MB,159
+Sr. Calebe Farias,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Ana Clara Cavalcante,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Carolina da Cunha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Rael Oliveira,PE,Recife,-8.0476,-34.877,300MB,129
+Levi Lopes,BA,Salvador,-12.9714,-38.5014,100MB,99
+Lívia Silva,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Maria Flor Aragão,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Dante Duarte,BA,Salvador,-12.9714,-38.5014,100MB,99
+Bryan Cirino,BA,Salvador,-12.9714,-38.5014,500MB,159
+Emanuella Farias,BA,Salvador,-12.9714,-38.5014,500MB,159
+Clara Azevedo,BA,Salvador,-12.9714,-38.5014,100MB,99
+Heloísa Campos,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Maria Alice Rocha,BA,Salvador,-12.9714,-38.5014,500MB,159
+Manuella Peixoto,PE,Recife,-8.0476,-34.877,100MB,99
+Sra. Stella da Mota,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sophie Nascimento,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Ester Almeida,PE,Recife,-8.0476,-34.877,300MB,129
+José Monteiro,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maria Helena Siqueira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Vitor Pinto,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dr. Erick Novaes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Ana Vitória Silva,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Rafaela Porto,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Josué Fonseca,SP,São Paulo,-23.5505,-46.6333,100MB,99
+José Miguel Câmara,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Dr. Otto Peixoto,PR,Curitiba,-25.4284,-49.2733,100MB,99
+João Pedro Fonseca,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Joaquim Vargas,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dr. Gustavo Pereira,PE,Recife,-8.0476,-34.877,1GB,199
+Miguel Campos,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Larissa Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Srta. Maya Pimenta,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Bernardo Novais,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Júlia Ferreira,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Vinícius Araújo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Bryan Pastor,PE,Recife,-8.0476,-34.877,1GB,199
+Ayla Ferreira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Clarice Barros,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Srta. Alana Cassiano,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Benjamim Ferreira,PE,Recife,-8.0476,-34.877,1GB,199
+Théo Fogaça,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Heloísa Nunes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Lucas Gabriel da Paz,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Raquel Ribeiro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Fernanda Gonçalves,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Diogo Barbosa,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sr. Yuri Nunes,PE,Recife,-8.0476,-34.877,1GB,199
+Ayla Fonseca,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Marcelo Barbosa,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+José Alves,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Srta. Ayla da Rocha,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Mirella Siqueira,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Srta. Maria Júlia Pires,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ana Lívia Dias,BA,Salvador,-12.9714,-38.5014,100MB,99
+Vitor Novais,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Antonella Correia,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Alice Moraes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Fernanda Fernandes,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Dr. Raul Fogaça,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Matteo Siqueira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Antônio Castro,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Dr. Pedro Lucas Rocha,BA,Salvador,-12.9714,-38.5014,100MB,99
+Diego Nascimento,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Kaique da Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Raquel Barbosa,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Alana Sousa,BA,Salvador,-12.9714,-38.5014,100MB,99
+Raul Gonçalves,PE,Recife,-8.0476,-34.877,100MB,99
+Srta. Fernanda Câmara,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Noah Costa,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Esther da Rosa,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Liz Ribeiro,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Ana Laura Montenegro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Ryan Barros,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Diogo Borges,BA,Salvador,-12.9714,-38.5014,100MB,99
+Caleb Silva,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Vitória Nogueira,PE,Recife,-8.0476,-34.877,300MB,129
+Vitória Mendonça,BA,Salvador,-12.9714,-38.5014,100MB,99
+Júlia Freitas,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Erick Mendonça,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Alexandre Ribeiro,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Gabriel Peixoto,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Anthony Gabriel Sá,BA,Salvador,-12.9714,-38.5014,1GB,199
+Bárbara Vasconcelos,BA,Salvador,-12.9714,-38.5014,300MB,129
+Giovanna Almeida,PE,Recife,-8.0476,-34.877,300MB,129
+Eduarda Barros,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Joana Ferreira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Vicente da Mata,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sarah Dias,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Pedro Henrique Borges,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sra. Luiza Lima,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Kaique Cunha,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Bárbara Nogueira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Isaac Carvalho,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Helena Gonçalves,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Isis Leão,BA,Salvador,-12.9714,-38.5014,500MB,159
+Enrico Melo,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Gabrielly Nogueira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dra. Rafaela Sá,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Heitor Fernandes,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Clara Ribeiro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Lorena Cavalcanti,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maya Fonseca,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Pedro Miguel Nogueira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Benicio Andrade,PE,Recife,-8.0476,-34.877,100MB,99
+Davi Miguel da Cruz,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Eduarda Oliveira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Calebe Brito,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dra. Isabella Nogueira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Maria Alice Carvalho,PE,Recife,-8.0476,-34.877,500MB,159
+Sr. Eduardo Rios,PE,Recife,-8.0476,-34.877,300MB,129
+Vinicius Aragão,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Sra. Lorena Montenegro,PE,Recife,-8.0476,-34.877,300MB,129
+Maya Gonçalves,PR,Curitiba,-25.4284,-49.2733,100MB,99
+João Lucas Rezende,BA,Salvador,-12.9714,-38.5014,300MB,129
+Bernardo Rios,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dr. Theodoro Nogueira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Mirella Mendonça,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Luiz Henrique Garcia,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Juliana Casa Grande,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dante Pinto,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Nicolas Sá,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Heitor das Neves,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Fernanda Nascimento,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Thales Farias,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Matheus Mendes,BA,Salvador,-12.9714,-38.5014,300MB,129
+Théo Fernandes,PE,Recife,-8.0476,-34.877,100MB,99
+Bernardo Monteiro,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Maria Julia Nogueira,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Cecília Novais,PE,Recife,-8.0476,-34.877,500MB,159
+João Pedro Aparecida,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Otto Aparecida,PE,Recife,-8.0476,-34.877,500MB,159
+Alice Barbosa,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Lunna Peixoto,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Dra. Heloisa Ramos,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Vitor Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+José Miguel Cunha,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Giovanna Rios,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Amanda Gonçalves,BA,Salvador,-12.9714,-38.5014,300MB,129
+Liam Cassiano,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maria Isis Machado,PE,Recife,-8.0476,-34.877,1GB,199
+Juan Andrade,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Rebeca da Mata,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sr. Davi Miguel Vieira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Marina Rodrigues,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Danilo Melo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Ana Beatriz Montenegro,BA,Salvador,-12.9714,-38.5014,1GB,199
+Benjamin Rios,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Heloisa Caldeira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Caroline Mendes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Gael Alves,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Isabela Moraes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Benicio Silveira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Valentim Pastor,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dra. Alice Mendonça,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Thiago Sá,BA,Salvador,-12.9714,-38.5014,300MB,129
+Dr. Luiz Miguel Sampaio,PE,Recife,-8.0476,-34.877,300MB,129
+Eloá Siqueira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dr. Pietro Lima,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Evelyn Jesus,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Luísa Moraes,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Murilo Novais,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dr. Vitor da Paz,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Sra. Sara Rodrigues,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Murilo Santos,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Igor Moura,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Olivia Moreira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Ana Lívia Sampaio,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Nicolas Sampaio,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Nicolas da Rocha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Srta. Maysa Cavalcanti,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Nicole Souza,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Breno Vasconcelos,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Fernando da Conceição,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Sarah Mendonça,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Melissa da Mota,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Sr. João Gabriel Aragão,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Daniel Abreu,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Antônio Novais,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Henrique Garcia,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Rodrigo Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Bruno Gonçalves,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Thales Cavalcante,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Luiz Otávio Azevedo,BA,Salvador,-12.9714,-38.5014,1GB,199
+Jade Carvalho,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Mariana Monteiro,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Vitor Hugo Alves,PE,Recife,-8.0476,-34.877,100MB,99
+Enzo Fogaça,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Maria Liz Santos,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Dr. Leandro Moraes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Pedro Lucas Araújo,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Dra. Ana Laura Vasconcelos,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Ana Lívia da Rosa,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Dom Moura,BA,Salvador,-12.9714,-38.5014,1GB,199
+Sra. Manuela Câmara,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Isadora Alves,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Bárbara Monteiro,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Ana Sophia Novais,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Antônio da Rosa,BA,Salvador,-12.9714,-38.5014,500MB,159
+Daniel Fonseca,PE,Recife,-8.0476,-34.877,500MB,159
+Sra. Valentina Araújo,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Clara Mendonça,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Vitor Hugo Leão,BA,Salvador,-12.9714,-38.5014,500MB,159
+Bento Alves,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Emanuella Lopes,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Dr. Bruno Mendes,PE,Recife,-8.0476,-34.877,500MB,159
+José Pedro Rodrigues,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Marcelo Machado,BA,Salvador,-12.9714,-38.5014,300MB,129
+Ana Liz Costa,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Rebeca das Neves,BA,Salvador,-12.9714,-38.5014,500MB,159
+Enzo Moreira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Clara Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Srta. Isabella das Neves,BA,Salvador,-12.9714,-38.5014,500MB,159
+Murilo Vargas,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ravy da Rocha,BA,Salvador,-12.9714,-38.5014,100MB,99
+João Pedro Freitas,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Bento Leão,PE,Recife,-8.0476,-34.877,100MB,99
+Brayan Camargo,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Zoe Fogaça,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Lucas Duarte,BA,Salvador,-12.9714,-38.5014,300MB,129
+Thomas Câmara,PE,Recife,-8.0476,-34.877,1GB,199
+Maria Sophia Cavalcanti,PE,Recife,-8.0476,-34.877,100MB,99
+Yuri Moura,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Diogo Marques,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Ísis Campos,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Vitor Hugo Barros,BA,Salvador,-12.9714,-38.5014,100MB,99
+Luara Abreu,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maya Camargo,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Bento Dias,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Calebe Sampaio,PE,Recife,-8.0476,-34.877,100MB,99
+Maria Luiza Sá,PE,Recife,-8.0476,-34.877,500MB,159
+Lara Porto,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Dr. Leandro Cunha,PE,Recife,-8.0476,-34.877,500MB,159
+Luan Campos,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Caleb da Mota,PE,Recife,-8.0476,-34.877,500MB,159
+Oliver da Rosa,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Rhavi da Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Maria Cecília Cirino,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Emanuella da Cruz,BA,Salvador,-12.9714,-38.5014,1GB,199
+Luiz Henrique Andrade,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Srta. Laís Garcia,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Liam Ferreira,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Davi Freitas,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Manuela Silveira,PE,Recife,-8.0476,-34.877,100MB,99
+Nina Nogueira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Oliver Nascimento,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Sophia Viana,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Maria Julia Santos,PE,Recife,-8.0476,-34.877,500MB,159
+Juan Almeida,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Heitor Pacheco,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Alexandre Mendonça,PE,Recife,-8.0476,-34.877,300MB,129
+Lucas Gabriel Pinto,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Caleb Castro,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Julia Moreira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Sara Guerra,PE,Recife,-8.0476,-34.877,100MB,99
+Dra. Ana Lívia Teixeira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Luísa Santos,PE,Recife,-8.0476,-34.877,500MB,159
+Luiz Fernando Montenegro,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Isabela Cassiano,BA,Salvador,-12.9714,-38.5014,500MB,159
+Caleb Dias,PE,Recife,-8.0476,-34.877,300MB,129
+Leandro da Cunha,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Lorenzo Jesus,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Antonella Castro,BA,Salvador,-12.9714,-38.5014,500MB,159
+Vitor Gabriel Sá,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Noah Cirino,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Sr. Benjamim Sousa,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dr. Luiz Otávio Borges,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Dr. Davi Luiz das Neves,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Lorenzo Ramos,BA,Salvador,-12.9714,-38.5014,100MB,99
+Alana Porto,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Mirella Sampaio,PE,Recife,-8.0476,-34.877,300MB,129
+Eloá Costela,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Amanda Duarte,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Pedro Lucas Aparecida,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+João Vitor Cardoso,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Yago Pires,PE,Recife,-8.0476,-34.877,1GB,199
+Maya da Mata,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Lara Novais,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Otávio Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ian Guerra,PE,Recife,-8.0476,-34.877,500MB,159
+Daniel Araújo,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Anthony Gabriel Sampaio,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Melissa Gonçalves,BA,Salvador,-12.9714,-38.5014,500MB,159
+Vicente Sampaio,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Elisa Vargas,PE,Recife,-8.0476,-34.877,500MB,159
+José Pedro Pires,PE,Recife,-8.0476,-34.877,300MB,129
+João Miguel Cunha,PE,Recife,-8.0476,-34.877,500MB,159
+Theo Freitas,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Guilherme Freitas,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Rodrigo Pastor,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sr. Benjamim da Paz,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Sr. Thiago Pires,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Gael da Costa,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Maysa Gomes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Davi Miguel Campos,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Dr. Luiz Gustavo Castro,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Srta. Eloah Castro,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Carolina Cavalcante,BA,Salvador,-12.9714,-38.5014,300MB,129
+Raul Peixoto,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Brenda Aparecida,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Fernanda Cunha,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sophie da Conceição,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Daniel Souza,BA,Salvador,-12.9714,-38.5014,300MB,129
+Otávio Pires,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ravi Lucca Machado,BA,Salvador,-12.9714,-38.5014,500MB,159
+Rael Nascimento,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Sra. Maria Laura Silveira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Calebe Teixeira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Samuel Pacheco,BA,Salvador,-12.9714,-38.5014,1GB,199
+Stephany Vargas,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Luan Almeida,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Levi da Conceição,BA,Salvador,-12.9714,-38.5014,100MB,99
+Pedro Lucas Fernandes,PE,Recife,-8.0476,-34.877,300MB,129
+Elisa Machado,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sr. Arthur Gabriel Nascimento,BA,Salvador,-12.9714,-38.5014,100MB,99
+João Vitor Cunha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Juliana Casa Grande,PE,Recife,-8.0476,-34.877,100MB,99
+Breno Machado,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dr. Davi Lucca Sousa,BA,Salvador,-12.9714,-38.5014,1GB,199
+Srta. Heloísa Barros,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Srta. Maria Luísa Pires,BA,Salvador,-12.9714,-38.5014,100MB,99
+Luiza da Rosa,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Beatriz Cardoso,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Maria Flor Moura,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Dr. Apollo Pires,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Srta. Ana Carolina Cassiano,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ryan Camargo,PE,Recife,-8.0476,-34.877,300MB,129
+André Sampaio,PE,Recife,-8.0476,-34.877,300MB,129
+Bianca Cirino,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Erick Marques,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Julia Araújo,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Arthur Gabriel Lopes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Isabel Costa,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ana Carolina Gomes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Beatriz Sá,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Pedro Lucas Nascimento,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sra. Ana Cecília Machado,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Daniela Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Dra. Lavínia Cirino,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Léo Fernandes,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Dra. Sarah Peixoto,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Rhavi Barbosa,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Eduarda da Cruz,PE,Recife,-8.0476,-34.877,500MB,159
+Isaac Martins,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Mateus Souza,BA,Salvador,-12.9714,-38.5014,1GB,199
+Brenda Mendonça,BA,Salvador,-12.9714,-38.5014,100MB,99
+Melina Ferreira,BA,Salvador,-12.9714,-38.5014,500MB,159
+Brenda da Conceição,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Luiza da Rosa,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Maria Isis Nascimento,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Camila Cardoso,BA,Salvador,-12.9714,-38.5014,500MB,159
+Luiz Otávio Fogaça,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Dom Brito,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Stella Cunha,BA,Salvador,-12.9714,-38.5014,100MB,99
+Dr. Thales Araújo,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Srta. Mariane Freitas,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maria Julia Melo,BA,Salvador,-12.9714,-38.5014,300MB,129
+Luiz Felipe Dias,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Yago Vasconcelos,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Mathias Macedo,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Miguel Câmara,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Bruna Farias,PE,Recife,-8.0476,-34.877,500MB,159
+Valentina das Neves,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Nicolas Jesus,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sara Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Isabella Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dante Jesus,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maria Sophia da Conceição,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Luiz Felipe Rodrigues,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dr. João Miguel Lopes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Sr. Benjamim Sousa,BA,Salvador,-12.9714,-38.5014,300MB,129
+Pedro Henrique Brito,PE,Recife,-8.0476,-34.877,1GB,199
+Sr. Lorenzo da Costa,PE,Recife,-8.0476,-34.877,100MB,99
+Luiza Lima,BA,Salvador,-12.9714,-38.5014,500MB,159
+Lara Santos,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ana Carolina Macedo,PE,Recife,-8.0476,-34.877,1GB,199
+Heloisa Novaes,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Marcelo da Costa,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Luan Cavalcante,PE,Recife,-8.0476,-34.877,300MB,129
+Nicolas das Neves,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Thomas Novais,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Arthur Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Luan Abreu,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Benjamin Lopes,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Luan da Cunha,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Davi Luiz Costa,BA,Salvador,-12.9714,-38.5014,500MB,159
+Gael Siqueira,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Dr. Henry Gabriel Montenegro,BA,Salvador,-12.9714,-38.5014,300MB,129
+Rhavi Campos,BA,Salvador,-12.9714,-38.5014,1GB,199
+Theo Jesus,BA,Salvador,-12.9714,-38.5014,100MB,99
+Davi Lucas Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sara Oliveira,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Flor Moura,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Srta. Heloisa Marques,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Eloah Marques,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Maria Eduarda Pacheco,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Henry Campos,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Danilo Freitas,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Joaquim Peixoto,PE,Recife,-8.0476,-34.877,100MB,99
+Lorenzo da Paz,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Maria Helena da Mata,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Sr. Enzo Gabriel Novais,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Gael Henrique Porto,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Manuela Teixeira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Srta. Rafaela Brito,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Nicole Nunes,PE,Recife,-8.0476,-34.877,100MB,99
+João Casa Grande,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Renan Caldeira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Hadassa Cavalcante,PE,Recife,-8.0476,-34.877,500MB,159
+Brayan Monteiro,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Anna Liz da Mata,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sr. Calebe Moraes,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Maria Julia Nogueira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Yasmin Aragão,BA,Salvador,-12.9714,-38.5014,100MB,99
+Sr. João Guilherme Fogaça,PE,Recife,-8.0476,-34.877,100MB,99
+Samuel Oliveira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Aylla Peixoto,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Vitor Gabriel Marques,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Arthur Gabriel Aparecida,BA,Salvador,-12.9714,-38.5014,500MB,159
+Lavínia Porto,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Matheus Gonçalves,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Asafe da Costa,PE,Recife,-8.0476,-34.877,1GB,199
+Laís Marques,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Srta. Sara Leão,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Dr. Pedro Henrique Gomes,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Vinícius Correia,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Ana Sophia Sá,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Enrico Vasconcelos,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Marina Farias,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Lunna Camargo,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Lavínia Câmara,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Diogo Freitas,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Bryan Borges,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Thomas Sousa,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Lavínia Rezende,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Samuel Vasconcelos,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Bruno Pereira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Emilly Santos,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Srta. Maria Alice Alves,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Vitor Borges,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Isaque Cardoso,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Olívia da Cunha,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Dra. Maria Vitória Porto,SP,São Paulo,-23.5505,-46.6333,300MB,129
+João Lucas Alves,BA,Salvador,-12.9714,-38.5014,300MB,129
+Vitor Gabriel Vasconcelos,PE,Recife,-8.0476,-34.877,500MB,159
+Rebeca Macedo,PE,Recife,-8.0476,-34.877,1GB,199
+Letícia Câmara,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Marcela da Cunha,BA,Salvador,-12.9714,-38.5014,500MB,159
+Kevin Farias,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Pietra Santos,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Dr. Danilo Lopes,PE,Recife,-8.0476,-34.877,300MB,129
+Daniel Farias,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Laura da Paz,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Nicole Costela,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Davi Miguel da Rocha,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Levi Carvalho,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Sr. Samuel Carvalho,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Paulo Santos,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Aurora da Costa,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Maria Laura Aparecida,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Davi Lucas Moreira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Isaque Teixeira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Mathias Pimenta,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sra. Elisa Cavalcante,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+André Moreira,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Valentim Marques,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sr. José Miguel Novaes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Lorena Alves,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Otávio Silveira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Ryan Carvalho,BA,Salvador,-12.9714,-38.5014,500MB,159
+João Pedro Moura,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Lorena Cirino,PE,Recife,-8.0476,-34.877,100MB,99
+Zoe Garcia,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Sara da Luz,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Leandro Brito,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Mariane Souza,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Lucas Gabriel da Cunha,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Carlos Eduardo Cunha,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Maria Liz Guerra,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+João Guilherme Cassiano,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Srta. Marina Cardoso,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Alice da Conceição,PE,Recife,-8.0476,-34.877,100MB,99
+Alexia Souza,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ryan da Mota,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Davi Lucas Azevedo,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Felipe Oliveira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Marcela Aparecida,BA,Salvador,-12.9714,-38.5014,300MB,129
+Davi Vieira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Lucca da Cruz,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Henry Rocha,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Dra. Isabella Melo,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Raquel Camargo,PE,Recife,-8.0476,-34.877,1GB,199
+Arthur Moreira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Joaquim Marques,BA,Salvador,-12.9714,-38.5014,300MB,129
+Pedro Miguel Pinto,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Ágatha Silveira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Alexandre Jesus,BA,Salvador,-12.9714,-38.5014,500MB,159
+Dra. Ana Julia Sales,BA,Salvador,-12.9714,-38.5014,300MB,129
+Emanuella da Conceição,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Barros,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dra. Mariah Barros,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Danilo Nunes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Sarah Alves,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sra. Maria Cecília Mendes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Lorenzo da Costa,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sr. João Guilherme Sampaio,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Srta. Alícia Albuquerque,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dr. Isaac Castro,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Dom da Cunha,PE,Recife,-8.0476,-34.877,1GB,199
+Sr. Danilo Camargo,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dra. Ana Laura Câmara,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Mateus da Cruz,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Ester Aparecida,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Srta. Maria Luiza Castro,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+José Carvalho,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sr. Mathias Gonçalves,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sra. Brenda Montenegro,PE,Recife,-8.0476,-34.877,300MB,129
+Murilo Caldeira,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Lívia Pacheco,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Pietro Costa,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Erick da Mota,PE,Recife,-8.0476,-34.877,1GB,199
+Stella Nascimento,PE,Recife,-8.0476,-34.877,300MB,129
+Benicio Sá,BA,Salvador,-12.9714,-38.5014,500MB,159
+Isaque Nunes,PE,Recife,-8.0476,-34.877,500MB,159
+Dom Sampaio,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Henry Souza,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sra. Ana Laura Monteiro,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Bella da Paz,BA,Salvador,-12.9714,-38.5014,1GB,199
+Maria Clara Pereira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Jade Pimenta,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sr. Enrico Moraes,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Davi Luiz Andrade,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Nicole Souza,BA,Salvador,-12.9714,-38.5014,1GB,199
+Yan Lima,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Lorena Caldeira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Fernando Lopes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Zoe Pinto,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Luiz Henrique Sampaio,BA,Salvador,-12.9714,-38.5014,500MB,159
+Isaque Moraes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Cecília Duarte,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Arthur Câmara,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Samuel Souza,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Hadassa Alves,BA,Salvador,-12.9714,-38.5014,100MB,99
+Dra. Fernanda Cavalcante,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Bruna Pinto,PE,Recife,-8.0476,-34.877,300MB,129
+Stella Borges,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Alice da Luz,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Luara Porto,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Maria Alice Santos,PE,Recife,-8.0476,-34.877,100MB,99
+Vicente Correia,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Vitor Teixeira,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Sr. Thales Caldeira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Maria Helena Moreira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sr. André Cardoso,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Clarice Albuquerque,BA,Salvador,-12.9714,-38.5014,100MB,99
+João da Mata,BA,Salvador,-12.9714,-38.5014,1GB,199
+Milena Peixoto,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dra. Clarice Cavalcante,PE,Recife,-8.0476,-34.877,100MB,99
+Marina Sousa,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Amanda Jesus,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Melina Mendonça,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Kaique Albuquerque,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Théo Lopes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Natália Lopes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+João Guilherme Ferreira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Catarina Carvalho,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sr. Leonardo Cirino,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sra. Lunna Araújo,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Pedro Miguel Costela,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Dr. Bryan Pacheco,PE,Recife,-8.0476,-34.877,100MB,99
+Rebeca Gonçalves,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+João Guilherme Casa Grande,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Liz Almeida,PE,Recife,-8.0476,-34.877,100MB,99
+Dr. Vitor Garcia,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sr. Thomas Mendonça,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Eloá Novais,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Léo Costela,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Dra. Maria Laura Pires,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Yasmin Campos,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Murilo Sá,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ester Correia,PE,Recife,-8.0476,-34.877,300MB,129
+Heloisa Andrade,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Isaac Barbosa,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Vinicius Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sara Machado,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Aurora Rodrigues,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Léo Mendes,PE,Recife,-8.0476,-34.877,300MB,129
+Vicente Jesus,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Rafaela Brito,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Levi Rezende,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Luísa Macedo,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Gael Mendes,BA,Salvador,-12.9714,-38.5014,100MB,99
+Bernardo Vargas,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Caio Souza,PE,Recife,-8.0476,-34.877,300MB,129
+Lucca Fernandes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Raquel Alves,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Josué Nunes,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ana Cecília Duarte,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Antonella das Neves,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Kaique Albuquerque,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Ana Laura Silveira,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Lucas Gabriel Sousa,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Maria Sophia Câmara,BA,Salvador,-12.9714,-38.5014,500MB,159
+Gustavo Henrique Peixoto,PE,Recife,-8.0476,-34.877,300MB,129
+Renan Abreu,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Cavalcante,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Brayan Fonseca,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Benjamim Carvalho,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Pedro Miguel Vieira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sabrina Rocha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Pedro Cavalcanti,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Bruno Abreu,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Luiza Albuquerque,BA,Salvador,-12.9714,-38.5014,500MB,159
+Augusto Aparecida,PE,Recife,-8.0476,-34.877,300MB,129
+Joana Machado,PE,Recife,-8.0476,-34.877,500MB,159
+Camila da Costa,BA,Salvador,-12.9714,-38.5014,500MB,159
+Yan Gomes,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Ana Júlia Nogueira,PE,Recife,-8.0476,-34.877,500MB,159
+Srta. Natália da Rosa,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Luiz Fernando Almeida,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ana Carolina Alves,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Vicente Campos,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Alice Rios,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Srta. Clara da Luz,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Alícia Montenegro,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Theo Souza,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Josué Aragão,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Vitória Machado,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Henry Gabriel da Mata,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Natália Brito,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Alice Ribeiro,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Clara Moura,PR,Curitiba,-25.4284,-49.2733,500MB,159
+João Macedo,PE,Recife,-8.0476,-34.877,100MB,99
+Maria Helena Moreira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Cecília Nunes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Dr. Benício Nunes,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Laura Ramos,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Sra. Manuela Oliveira,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sr. Luiz Henrique Correia,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Amanda da Conceição,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Luiz Otávio Barros,BA,Salvador,-12.9714,-38.5014,300MB,129
+Lívia Rios,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Juliana da Cunha,BA,Salvador,-12.9714,-38.5014,500MB,159
+Vitor Hugo da Mata,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dra. Eloá Camargo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Heloisa Andrade,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Lorenzo Castro,BA,Salvador,-12.9714,-38.5014,500MB,159
+Anthony Gabriel Siqueira,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Otto Cavalcanti,BA,Salvador,-12.9714,-38.5014,100MB,99
+Clara Albuquerque,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Aylla Lopes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Benicio da Mota,PE,Recife,-8.0476,-34.877,100MB,99
+Erick Sá,PE,Recife,-8.0476,-34.877,500MB,159
+Sr. Davi Luiz Vieira,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Fernanda Oliveira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Júlia Barros,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Danilo Gomes,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Augusto Ferreira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Pedro Miguel Peixoto,BA,Salvador,-12.9714,-38.5014,500MB,159
+Eloah Pacheco,PE,Recife,-8.0476,-34.877,500MB,159
+Bella Vieira,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Caio Pires,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Theodoro Pinto,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Kamilly Duarte,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Luísa Souza,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Emanuella da Paz,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ana Júlia Nascimento,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maria Flor Oliveira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Dr. Lorenzo Cardoso,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Benjamim Pacheco,PE,Recife,-8.0476,-34.877,100MB,99
+Sra. Allana Campos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Srta. Gabriela Azevedo,PE,Recife,-8.0476,-34.877,500MB,159
+Dra. Catarina Pinto,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Srta. Rafaela Nogueira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Carlos Eduardo Borges,BA,Salvador,-12.9714,-38.5014,500MB,159
+Pietro Ramos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Vitor Dias,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Paulo Melo,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sra. Lívia Abreu,PE,Recife,-8.0476,-34.877,100MB,99
+Dra. Manuella Macedo,BA,Salvador,-12.9714,-38.5014,300MB,129
+Srta. Maria Eduarda Câmara,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Rhavi da Costa,PR,Curitiba,-25.4284,-49.2733,300MB,129
+João Gabriel Vasconcelos,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Caroline Borges,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Rafaela Moreira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Manuella da Cruz,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Samuel Lopes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Heloísa Aragão,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Natália Rocha,PE,Recife,-8.0476,-34.877,100MB,99
+Zoe Sousa,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Heloísa Cardoso,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+João Lucas Fonseca,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Juliana Câmara,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dra. Kamilly das Neves,BA,Salvador,-12.9714,-38.5014,300MB,129
+Carolina Vargas,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Maria Liz Nascimento,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Bruno da Rosa,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Vitor Gabriel da Cruz,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Luna Albuquerque,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+João Freitas,PE,Recife,-8.0476,-34.877,100MB,99
+Camila Campos,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Rael Siqueira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Carlos Eduardo Vieira,PE,Recife,-8.0476,-34.877,1GB,199
+Srta. Lavínia Melo,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Emanuelly da Costa,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Felipe Costa,BA,Salvador,-12.9714,-38.5014,500MB,159
+Stephany Novais,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ana Julia Jesus,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Ana Liz Mendes,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Enzo da Paz,PE,Recife,-8.0476,-34.877,300MB,129
+Manuela Brito,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sr. Thomas Garcia,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. Renan Andrade,PE,Recife,-8.0476,-34.877,1GB,199
+Vitor Hugo Campos,PE,Recife,-8.0476,-34.877,300MB,129
+Dra. Amanda da Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Arthur Miguel Rodrigues,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Mateus Martins,BA,Salvador,-12.9714,-38.5014,300MB,129
+Carolina Martins,PE,Recife,-8.0476,-34.877,500MB,159
+Murilo da Mota,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Pedro Lucas Pires,PE,Recife,-8.0476,-34.877,1GB,199
+Calebe Silveira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Marina Fernandes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Pedro Lucas Gonçalves,BA,Salvador,-12.9714,-38.5014,300MB,129
+Dra. Ana Laura Silveira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Asafe da Luz,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Srta. Lívia Câmara,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Milena Monteiro,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Cauê Cavalcanti,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Brenda Carvalho,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Natália da Luz,BA,Salvador,-12.9714,-38.5014,1GB,199
+Srta. Stephany Moura,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Stephany Viana,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Laura Costa,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Lucas Lima,BA,Salvador,-12.9714,-38.5014,500MB,159
+Bryan Rodrigues,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Isaque Freitas,PE,Recife,-8.0476,-34.877,500MB,159
+Francisco Araújo,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Milena Fogaça,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Rhavi Sousa,PE,Recife,-8.0476,-34.877,500MB,159
+Catarina da Paz,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Bruna Rodrigues,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Aylla Rocha,PE,Recife,-8.0476,-34.877,1GB,199
+Lucas Gabriel Rezende,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Dr. Breno Martins,PE,Recife,-8.0476,-34.877,100MB,99
+Thomas Mendes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Cauã da Rocha,PE,Recife,-8.0476,-34.877,100MB,99
+Dr. Josué Fonseca,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Bruno Vasconcelos,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Gael Henrique Cardoso,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Rafaela Sampaio,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Clarice Castro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Liz Cunha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Sra. Stephany Gomes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Henry Gabriel Mendes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Isabela Câmara,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Isabela Pastor,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Henrique Silveira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+José Pedro Ramos,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Benjamin Cavalcante,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Alícia Sampaio,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Dr. Luiz Felipe Costa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Agatha Costa,PE,Recife,-8.0476,-34.877,1GB,199
+Sra. Luana Abreu,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Enzo Rezende,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Ana Beatriz Rios,BA,Salvador,-12.9714,-38.5014,1GB,199
+Maria Vitória Rezende,BA,Salvador,-12.9714,-38.5014,100MB,99
+Maya Pires,BA,Salvador,-12.9714,-38.5014,300MB,129
+João Miguel Cassiano,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Catarina Mendonça,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Marcela Abreu,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Benjamim da Rocha,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Bruno Pires,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Vitor Cavalcanti,BA,Salvador,-12.9714,-38.5014,1GB,199
+Maria Clara Fernandes,PE,Recife,-8.0476,-34.877,1GB,199
+Anna Liz Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Ana Luiza Costa,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Nicolas Alves,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sophie Moraes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Heloísa Pastor,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ana Vasconcelos,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Benjamin Macedo,SP,São Paulo,-23.5505,-46.6333,300MB,129
+João Pedro Sá,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Alice Barbosa,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sra. Amanda Santos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Vitória Pimenta,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Pietra Mendes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Zoe Gomes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maria Liz da Costa,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Evelyn Campos,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dante Silva,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Rafaela Costa,PE,Recife,-8.0476,-34.877,300MB,129
+Emanuelly Marques,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Isaque Silva,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. João Vitor Ferreira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Hadassa Fonseca,BA,Salvador,-12.9714,-38.5014,500MB,159
+Alexandre Almeida,BA,Salvador,-12.9714,-38.5014,1GB,199
+Miguel Silveira,PE,Recife,-8.0476,-34.877,500MB,159
+Davi Lucas Vieira,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Agatha Freitas,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Sra. Alana Costa,BA,Salvador,-12.9714,-38.5014,300MB,129
+Dra. Yasmin Nascimento,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Davi Lucca Cassiano,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Aylla Rios,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Letícia Almeida,BA,Salvador,-12.9714,-38.5014,300MB,129
+Nathan Garcia,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Vitor Viana,PE,Recife,-8.0476,-34.877,300MB,129
+Benjamin Fernandes,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Vitor Hugo Pacheco,BA,Salvador,-12.9714,-38.5014,300MB,129
+Laís Pimenta,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Srta. Maria Sophia Lima,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dr. Isaac Aragão,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Antony Sousa,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sr. Pedro Miguel Marques,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Júlia Araújo,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Gabriela Gomes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Eduardo Rezende,BA,Salvador,-12.9714,-38.5014,300MB,129
+Henrique Peixoto,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Diogo Rezende,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Maysa Mendonça,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Maria Júlia Pires,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Nicole Montenegro,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Marcela Nogueira,PE,Recife,-8.0476,-34.877,300MB,129
+Henry Gabriel Viana,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Gabrielly Aparecida,PE,Recife,-8.0476,-34.877,100MB,99
+Dra. Sabrina Albuquerque,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dr. Murilo Pereira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sr. Davi da Mata,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Alice Sampaio,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Dr. Antony Siqueira,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Dr. Vitor Hugo Monteiro,BA,Salvador,-12.9714,-38.5014,300MB,129
+Erick Lopes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dra. Mariana Gomes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Brayan Mendes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Raquel Ribeiro,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Joana Porto,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Gustavo Henrique Campos,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Diogo Rodrigues,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Maria Alice Freitas,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Maria Cecília Jesus,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Natália Sales,BA,Salvador,-12.9714,-38.5014,500MB,159
+Joaquim Freitas,BA,Salvador,-12.9714,-38.5014,1GB,199
+José Miguel Pinto,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Antônio Ferreira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Hadassa Aragão,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Rhavi Araújo,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Benício Cassiano,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Ravy Garcia,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Emanuella da Paz,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Luiz Henrique Costela,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Vitor Azevedo,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Sra. Valentina Jesus,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Lucca Costa,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Benjamin Lima,BA,Salvador,-12.9714,-38.5014,300MB,129
+José Miguel Silva,PE,Recife,-8.0476,-34.877,300MB,129
+Isabelly Andrade,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Giovanna da Mota,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Cecília Sousa,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Benicio Guerra,PE,Recife,-8.0476,-34.877,500MB,159
+Yan Nogueira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Yago Aparecida,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Alice Marques,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Manuela Vasconcelos,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Kaique da Costa,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Murilo Vieira,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Lavínia Pacheco,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Dr. Yuri Castro,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Arthur Miguel Carvalho,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Maria Eduarda Moura,BA,Salvador,-12.9714,-38.5014,300MB,129
+Liz Pinto,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Enzo Gabriel Câmara,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Gael Silva,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Srta. Ana Carolina Marques,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Ana Laura Cardoso,PE,Recife,-8.0476,-34.877,300MB,129
+Dr. João Felipe Garcia,PE,Recife,-8.0476,-34.877,1GB,199
+Pedro Miguel Mendonça,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+José Pedro Souza,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Srta. Sabrina Mendes,BA,Salvador,-12.9714,-38.5014,100MB,99
+Marcelo da Mota,BA,Salvador,-12.9714,-38.5014,100MB,99
+Dr. Rodrigo Rodrigues,PE,Recife,-8.0476,-34.877,100MB,99
+Allana Nascimento,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sra. Lavínia Peixoto,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Rafael Ribeiro,BA,Salvador,-12.9714,-38.5014,100MB,99
+Luan Moreira,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Isabela Novaes,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Melina Vieira,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maya Melo,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sra. Larissa Silva,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Vitória Jesus,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Julia Camargo,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Dra. Lorena da Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sabrina Carvalho,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dr. Leandro Ramos,BA,Salvador,-12.9714,-38.5014,100MB,99
+Lunna Casa Grande,PE,Recife,-8.0476,-34.877,300MB,129
+Hellena Dias,PE,Recife,-8.0476,-34.877,500MB,159
+Clara Nunes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ana Luiza Mendonça,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Julia Correia,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Gabriel Barros,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Antony Pastor,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Pietra Gomes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Maya Machado,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Catarina Nogueira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Vitor Almeida,PE,Recife,-8.0476,-34.877,500MB,159
+Dante Barros,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Stella Pimenta,PE,Recife,-8.0476,-34.877,1GB,199
+Sr. Benicio Machado,BA,Salvador,-12.9714,-38.5014,300MB,129
+Cauã Cirino,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Vinicius Cavalcanti,BA,Salvador,-12.9714,-38.5014,100MB,99
+Francisco Borges,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Gabrielly Barbosa,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Hadassa Montenegro,BA,Salvador,-12.9714,-38.5014,1GB,199
+Nicolas Silva,PE,Recife,-8.0476,-34.877,100MB,99
+Nicole Martins,BA,Salvador,-12.9714,-38.5014,1GB,199
+André Pacheco,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Maria Luísa Rocha,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Miguel Melo,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. Oliver Ribeiro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Theo Fernandes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Srta. Brenda Correia,PE,Recife,-8.0476,-34.877,100MB,99
+Davi Lucas Fonseca,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Nina Carvalho,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Nina Oliveira,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+João Pedro Costela,PE,Recife,-8.0476,-34.877,500MB,159
+Clarice da Mota,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Sra. Maria Flor Teixeira,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Srta. Ana Clara Albuquerque,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Luiza da Rosa,BA,Salvador,-12.9714,-38.5014,100MB,99
+João Vitor Sales,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sabrina Nogueira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Isabella Farias,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Sra. Ana Cecília Viana,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Clarice Rocha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Srta. Maria Luísa Souza,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Stella Duarte,PE,Recife,-8.0476,-34.877,500MB,159
+Guilherme Duarte,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Calebe Rocha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Srta. Cecília Casa Grande,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Srta. Ayla Nunes,BA,Salvador,-12.9714,-38.5014,300MB,129
+Ana Julia Ribeiro,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Dr. Erick Cassiano,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Dante Campos,BA,Salvador,-12.9714,-38.5014,1GB,199
+Maria Eduarda Macedo,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Helena Azevedo,BA,Salvador,-12.9714,-38.5014,500MB,159
+Valentim Fonseca,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dante da Mota,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sr. Luiz Miguel Martins,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Noah Peixoto,PE,Recife,-8.0476,-34.877,1GB,199
+Giovanna das Neves,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Anna Liz Moura,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Eloá Nogueira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Matheus Pinto,PE,Recife,-8.0476,-34.877,100MB,99
+Ana Beatriz Fernandes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Bianca Rezende,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Maya Sampaio,PE,Recife,-8.0476,-34.877,1GB,199
+Danilo Fonseca,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Luigi Duarte,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Valentina Vasconcelos,BA,Salvador,-12.9714,-38.5014,500MB,159
+Rael Silveira,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Eloah Souza,PE,Recife,-8.0476,-34.877,500MB,159
+Luigi Leão,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ísis Garcia,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Liam Caldeira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Vinicius Martins,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Sophia Pereira,PE,Recife,-8.0476,-34.877,500MB,159
+Sra. Ayla Freitas,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Ágatha Andrade,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Hellena Gomes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Cecilia da Costa,BA,Salvador,-12.9714,-38.5014,1GB,199
+Sra. Evelyn Araújo,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Caleb Cassiano,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Julia Dias,PE,Recife,-8.0476,-34.877,300MB,129
+Alana Cunha,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Thiago Aragão,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Ana Carvalho,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Murilo Carvalho,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Emanuel Nunes,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Vitória Lopes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Flor Costa,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Maria Laura Jesus,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Sr. Henrique Pimenta,BA,Salvador,-12.9714,-38.5014,300MB,129
+Srta. Maria Liz Sá,BA,Salvador,-12.9714,-38.5014,500MB,159
+Vinicius Castro,BA,Salvador,-12.9714,-38.5014,300MB,129
+Pedro Henrique Moraes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Renan da Paz,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sra. Agatha Cavalcanti,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Giovanna Fonseca,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ana Laura Cavalcanti,BA,Salvador,-12.9714,-38.5014,1GB,199
+Cecília Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+José Pedro Costela,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sr. Joaquim Freitas,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Rafael Casa Grande,BA,Salvador,-12.9714,-38.5014,100MB,99
+Stephany Barbosa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Sabrina Nascimento,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Lavínia Brito,BA,Salvador,-12.9714,-38.5014,300MB,129
+Júlia Duarte,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Fernanda da Cruz,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Maitê Montenegro,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Ana Julia da Cruz,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Gabrielly Cardoso,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Joaquim Rocha,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Natália Gomes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Ana Julia Melo,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Maria Alice Câmara,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Dra. Ana Júlia Moraes,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Davi Lucas Souza,BA,Salvador,-12.9714,-38.5014,1GB,199
+Pietro Albuquerque,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sra. Ana Lívia Alves,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Sr. Asafe Carvalho,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Henry Gabriel Moraes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Sr. Brayan Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Gabriel Mendonça,PE,Recife,-8.0476,-34.877,100MB,99
+Luana Abreu,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Yasmin das Neves,PE,Recife,-8.0476,-34.877,1GB,199
+Pietro Sá,BA,Salvador,-12.9714,-38.5014,500MB,159
+Ravy Pacheco,BA,Salvador,-12.9714,-38.5014,500MB,159
+Isabelly Teixeira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Melina Silva,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Lucas Barbosa,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Gustavo da Mota,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Ísis Fernandes,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Larissa da Cunha,BA,Salvador,-12.9714,-38.5014,1GB,199
+Rodrigo Nogueira,PE,Recife,-8.0476,-34.877,300MB,129
+Yago Teixeira,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Brayan Azevedo,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dr. Vitor Azevedo,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Leandro Ramos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Kamilly Barbosa,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Anthony Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Pietra Sampaio,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Igor Casa Grande,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Cecilia Fogaça,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Ana Liz Andrade,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Igor da Luz,BA,Salvador,-12.9714,-38.5014,1GB,199
+Larissa Barbosa,PR,Curitiba,-25.4284,-49.2733,100MB,99
+André Pinto,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Catarina Garcia,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Maria Eduarda Aragão,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Emanuel Aragão,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Alícia Caldeira,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Elisa da Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Enrico Siqueira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Rhavi das Neves,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Vinicius Moreira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Raul Sampaio,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Srta. Emanuelly Sousa,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Luara Campos,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Enrico Nogueira,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Yuri da Costa,BA,Salvador,-12.9714,-38.5014,100MB,99
+Olívia Porto,BA,Salvador,-12.9714,-38.5014,1GB,199
+José Miguel Dias,BA,Salvador,-12.9714,-38.5014,500MB,159
+Theo Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Luiza Pacheco,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Eduarda Carvalho,PE,Recife,-8.0476,-34.877,300MB,129
+Sr. Levi Sousa,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Helena Porto,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+João Felipe Novais,BA,Salvador,-12.9714,-38.5014,500MB,159
+Dra. Juliana Melo,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Dr. Heitor da Paz,BA,Salvador,-12.9714,-38.5014,100MB,99
+Bianca Fernandes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Stella Lopes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Antonella Souza,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+João Cirino,PE,Recife,-8.0476,-34.877,100MB,99
+Melissa Gomes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Pedro Henrique Novaes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dante Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Clarice Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+José Miguel Siqueira,PE,Recife,-8.0476,-34.877,500MB,159
+Pedro Lucas Cardoso,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Bianca Vasconcelos,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Olivia Almeida,PE,Recife,-8.0476,-34.877,500MB,159
+Alexia da Mota,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Asafe da Cunha,BA,Salvador,-12.9714,-38.5014,100MB,99
+Liam Mendes,PE,Recife,-8.0476,-34.877,100MB,99
+Heloísa Nascimento,BA,Salvador,-12.9714,-38.5014,500MB,159
+Srta. Isadora Rodrigues,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Gael Borges,BA,Salvador,-12.9714,-38.5014,100MB,99
+Davi Lucca Ramos,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Agatha Novaes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Bruna das Neves,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Samuel Mendes,PE,Recife,-8.0476,-34.877,1GB,199
+Sra. Gabriela Rodrigues,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Dr. Benjamin Pastor,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Brayan Cirino,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Daniel Viana,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Rael Silva,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Isabela Cirino,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maysa Pacheco,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Isis Sampaio,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dr. Josué das Neves,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Rafaela Vargas,PE,Recife,-8.0476,-34.877,100MB,99
+Ana Laura Campos,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+José Pedro Barbosa,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Jade Silveira,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Joaquim Pastor,BA,Salvador,-12.9714,-38.5014,1GB,199
+Otávio Cavalcante,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Sr. José Nogueira,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Marina Porto,BA,Salvador,-12.9714,-38.5014,300MB,129
+Daniel Campos,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Catarina Vieira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Isabel Lopes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Isis Silva,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Levi Sá,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Heloísa da Luz,BA,Salvador,-12.9714,-38.5014,1GB,199
+Mateus Rios,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Daniel Almeida,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Nina Carvalho,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Hadassa Casa Grande,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Arthur Vargas,PE,Recife,-8.0476,-34.877,100MB,99
+Carolina Casa Grande,PE,Recife,-8.0476,-34.877,300MB,129
+Pietro Pereira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Apollo da Mota,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+José Lopes,PE,Recife,-8.0476,-34.877,500MB,159
+Kamilly Silva,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Lara Nunes,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sr. João Lucas Alves,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Beatriz Rocha,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dr. Pietro Rodrigues,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Isabel Ribeiro,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Erick Nunes,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Diogo Rezende,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Anthony Siqueira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Cecília Rezende,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Srta. Sophia Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Bernardo Leão,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+João Gabriel Silva,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. Asafe Rodrigues,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Anna Liz Barbosa,PE,Recife,-8.0476,-34.877,500MB,159
+Carolina Azevedo,BA,Salvador,-12.9714,-38.5014,1GB,199
+Maria Isis Mendes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Paulo Castro,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Nathan Casa Grande,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Srta. Olivia Pires,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Maria Fernanda Cavalcanti,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Marcos Vinicius Caldeira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Heloísa Abreu,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Catarina Fernandes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Srta. Alana Macedo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+João Lucas Rocha,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Francisco Pacheco,BA,Salvador,-12.9714,-38.5014,500MB,159
+Benício da Mata,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Rhavi Viana,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Miguel Cavalcanti,PE,Recife,-8.0476,-34.877,100MB,99
+Felipe Ribeiro,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+João Gabriel Lima,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Marina Peixoto,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Gabrielly Nascimento,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Eduarda Câmara,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Arthur Miguel Costela,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Daniel Carvalho,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Paulo Fogaça,BA,Salvador,-12.9714,-38.5014,1GB,199
+Nicole da Luz,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Cauê Rios,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Pietra da Conceição,PE,Recife,-8.0476,-34.877,500MB,159
+Benicio Correia,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Pietra Rios,BA,Salvador,-12.9714,-38.5014,1GB,199
+Antonella Moraes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Luan Fogaça,BA,Salvador,-12.9714,-38.5014,1GB,199
+Allana Pimenta,BA,Salvador,-12.9714,-38.5014,100MB,99
+Isabela Sampaio,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Ana Lívia Castro,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dra. Ana Laura Pastor,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sr. Otávio Nunes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Ana Beatriz Sousa,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sr. Arthur Miguel Carvalho,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Vitor Carvalho,PE,Recife,-8.0476,-34.877,1GB,199
+João Pastor,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Bryan Fernandes,PE,Recife,-8.0476,-34.877,300MB,129
+Ana Borges,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Felipe Alves,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Lívia da Costa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Bruna Campos,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Mariah Novais,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Dr. Luiz Fernando Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dr. Luiz Fernando Pires,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Laura Cunha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Ana Vitória Borges,BA,Salvador,-12.9714,-38.5014,100MB,99
+Gabriel Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Lavínia da Conceição,BA,Salvador,-12.9714,-38.5014,300MB,129
+Marina Almeida,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Antony Silva,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Alana da Luz,BA,Salvador,-12.9714,-38.5014,100MB,99
+Manuella Andrade,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Stephany Duarte,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Rhavi Moraes,BA,Salvador,-12.9714,-38.5014,100MB,99
+Ravy Moreira,BA,Salvador,-12.9714,-38.5014,100MB,99
+Emilly Almeida,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Anthony Freitas,BA,Salvador,-12.9714,-38.5014,1GB,199
+Maria Liz Macedo,PE,Recife,-8.0476,-34.877,100MB,99
+Lara Correia,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Diego Porto,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dr. Nicolas Montenegro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Brenda Correia,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Antony Lima,BA,Salvador,-12.9714,-38.5014,500MB,159
+Pedro Miguel da Cruz,PE,Recife,-8.0476,-34.877,300MB,129
+Liam Cirino,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Antony da Paz,PE,Recife,-8.0476,-34.877,500MB,159
+Nina da Conceição,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Dr. Enrico Melo,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Carlos Eduardo Silva,BA,Salvador,-12.9714,-38.5014,300MB,129
+Ana Beatriz Vargas,BA,Salvador,-12.9714,-38.5014,100MB,99
+Olívia Pastor,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Cauã Cardoso,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Arthur Gonçalves,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Manuela Peixoto,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sra. Helena Brito,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Luara Novais,PE,Recife,-8.0476,-34.877,300MB,129
+Dom Sá,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Anna Liz Moura,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dr. Lucas Leão,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Maria Liz Freitas,PE,Recife,-8.0476,-34.877,500MB,159
+Luiz Felipe Almeida,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Alana Pacheco,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Joaquim Monteiro,PE,Recife,-8.0476,-34.877,500MB,159
+Pedro Lucas Barros,BA,Salvador,-12.9714,-38.5014,100MB,99
+Calebe da Paz,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Théo Casa Grande,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Pedro Miguel Moraes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dr. Gustavo Henrique Garcia,PE,Recife,-8.0476,-34.877,100MB,99
+Dra. Ayla Cunha,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Marcela Campos,BA,Salvador,-12.9714,-38.5014,500MB,159
+Juan Peixoto,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Heloisa Ramos,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Rodrigo Garcia,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Renan Mendes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+João Gabriel Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+José Pedro Camargo,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Letícia Caldeira,PE,Recife,-8.0476,-34.877,100MB,99
+Daniel Souza,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Stella Costela,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sra. Aylla Pereira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dr. Emanuel da Rocha,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sr. Rodrigo Melo,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Luísa Borges,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Luiza Carvalho,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Danilo Ribeiro,BA,Salvador,-12.9714,-38.5014,1GB,199
+Ana Julia Cavalcante,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Lorena da Mata,PE,Recife,-8.0476,-34.877,500MB,159
+Yuri Martins,SP,São Paulo,-23.5505,-46.6333,300MB,129
+João Vitor Sousa,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+João Gabriel Moreira,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Vitor Hugo Pereira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Benjamin Borges,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Pedro Lucas Marques,BA,Salvador,-12.9714,-38.5014,500MB,159
+Luiz Gustavo Teixeira,PE,Recife,-8.0476,-34.877,1GB,199
+Sra. Ester Fernandes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Dr. Henrique Caldeira,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Júlia Pereira,PE,Recife,-8.0476,-34.877,500MB,159
+Srta. Júlia Albuquerque,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Ravi Lucca Macedo,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Emilly das Neves,BA,Salvador,-12.9714,-38.5014,300MB,129
+Srta. Ágatha Costa,BA,Salvador,-12.9714,-38.5014,300MB,129
+Theodoro Caldeira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+André Sales,BA,Salvador,-12.9714,-38.5014,100MB,99
+Théo da Luz,PE,Recife,-8.0476,-34.877,300MB,129
+Dr. Pedro Santos,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dra. Giovanna Albuquerque,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Marcelo Ramos,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Theodoro Fonseca,BA,Salvador,-12.9714,-38.5014,100MB,99
+João Miguel Pastor,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ester Lopes,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Ana Laura Oliveira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Nina Machado,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Olivia Nunes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Lucca Martins,PE,Recife,-8.0476,-34.877,1GB,199
+Srta. Nicole Caldeira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Nathan da Cruz,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Matheus Sousa,BA,Salvador,-12.9714,-38.5014,300MB,129
+Diogo da Rocha,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Cecilia da Cunha,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Ana Beatriz Novais,PE,Recife,-8.0476,-34.877,1GB,199
+Lunna Montenegro,BA,Salvador,-12.9714,-38.5014,500MB,159
+Murilo Mendonça,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Sr. Miguel Fonseca,BA,Salvador,-12.9714,-38.5014,1GB,199
+Pedro Henrique Sousa,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Luiza Guerra,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Theo Andrade,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Maria Azevedo,BA,Salvador,-12.9714,-38.5014,500MB,159
+Valentina Sá,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Arthur Miguel Nascimento,SP,São Paulo,-23.5505,-46.6333,100MB,99
+João Lucas Guerra,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Pedro Miguel Gonçalves,PE,Recife,-8.0476,-34.877,1GB,199
+Sra. Kamilly Teixeira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Srta. Alícia Castro,PE,Recife,-8.0476,-34.877,300MB,129
+Ana Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+José Gonçalves,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Bella Costela,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Gabriel Fernandes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Ana Liz Correia,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Sr. Pietro Silveira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Eduarda Câmara,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Clara Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Sr. Davi Luiz Camargo,BA,Salvador,-12.9714,-38.5014,300MB,129
+Isabella Correia,PE,Recife,-8.0476,-34.877,500MB,159
+Diogo Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Srta. Amanda Rodrigues,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Isadora Mendonça,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Apollo Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Oliver Moraes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Yuri Dias,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Theo Rodrigues,BA,Salvador,-12.9714,-38.5014,100MB,99
+Sara Cunha,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Apollo Siqueira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Isabelly Vargas,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Srta. Emanuella Duarte,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sra. Maria Isis Garcia,PE,Recife,-8.0476,-34.877,100MB,99
+Rebeca Leão,BA,Salvador,-12.9714,-38.5014,300MB,129
+Yago Rezende,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sr. Lorenzo Rezende,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Rodrigo Monteiro,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Rafaela Fogaça,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Lorena da Mata,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Marcelo Caldeira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Yan Nascimento,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Enzo Gabriel Costa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Melina Fernandes,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Maria Julia Borges,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Vicente Alves,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Antônio das Neves,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Théo da Cruz,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Maria Sophia da Rocha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+José Pedro Machado,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sr. André Pastor,PE,Recife,-8.0476,-34.877,500MB,159
+Sophia da Rocha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dra. Maria Luísa Moraes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Srta. Maria Fernanda Pastor,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Eloah Mendes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sofia Carvalho,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Ana Clara Nogueira,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Cecilia Cardoso,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Leandro Siqueira,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Samuel Ferreira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Marcela da Paz,PE,Recife,-8.0476,-34.877,100MB,99
+Bruna Camargo,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Juan Viana,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Maysa Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ryan da Paz,PE,Recife,-8.0476,-34.877,300MB,129
+Carolina Cirino,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Dr. Calebe Sousa,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Igor Pimenta,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Benício da Mota,PE,Recife,-8.0476,-34.877,100MB,99
+Leandro Moreira,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Ester Nunes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Juliana Sales,PE,Recife,-8.0476,-34.877,1GB,199
+Bento Viana,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Davi Teixeira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dr. Bruno Nunes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Ágatha Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Miguel Pires,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Clara Pinto,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Vinícius Fogaça,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+João Miguel Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Maria Luiza da Cruz,BA,Salvador,-12.9714,-38.5014,500MB,159
+João Lucas Albuquerque,PE,Recife,-8.0476,-34.877,100MB,99
+Dr. Erick Cirino,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Raul Sales,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Sra. Eloah Duarte,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Dra. Maria Luiza Costa,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Antonella Cardoso,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Luiz Gustavo da Conceição,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Levi Costela,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Gabrielly Pires,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Dra. Kamilly Campos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Vitor Hugo da Paz,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Gabrielly Novaes,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Camila Carvalho,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Benício Moreira,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Ísis Cardoso,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Maria Liz da Conceição,PE,Recife,-8.0476,-34.877,1GB,199
+Lunna Ramos,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Enzo Gabriel Moreira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Maya Cassiano,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Evelyn da Mota,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Antônio Marques,BA,Salvador,-12.9714,-38.5014,100MB,99
+João Vitor Câmara,BA,Salvador,-12.9714,-38.5014,500MB,159
+Nicolas Marques,BA,Salvador,-12.9714,-38.5014,300MB,129
+Luiz Miguel Moura,BA,Salvador,-12.9714,-38.5014,100MB,99
+Maria Helena Montenegro,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Ana Beatriz Carvalho,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Davi Lucca Almeida,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Luara Sales,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Isabela Farias,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Maria Flor Vieira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Maya Câmara,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Diogo Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Hadassa Macedo,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Yago Camargo,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Clara Ferreira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+João Felipe Nogueira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Stella Pacheco,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Mathias da Rosa,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sr. Bernardo Rodrigues,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sr. Lucca Pastor,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Maria Sophia Dias,PE,Recife,-8.0476,-34.877,1GB,199
+Samuel Monteiro,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Theodoro Mendonça,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+João Mendes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Diego Freitas,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Otto da Mata,BA,Salvador,-12.9714,-38.5014,100MB,99
+Marina Duarte,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Gustavo Henrique Borges,BA,Salvador,-12.9714,-38.5014,1GB,199
+Srta. Marina da Cruz,BA,Salvador,-12.9714,-38.5014,300MB,129
+André Oliveira,PE,Recife,-8.0476,-34.877,300MB,129
+Zoe Jesus,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Yago da Paz,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Sara Nascimento,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Leonardo Costela,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Heitor Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Stella da Conceição,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Brenda Pimenta,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+André Borges,PE,Recife,-8.0476,-34.877,300MB,129
+Noah Cunha,PE,Recife,-8.0476,-34.877,100MB,99
+Evelyn Cunha,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Srta. Sara Moura,PE,Recife,-8.0476,-34.877,300MB,129
+Rebeca Vieira,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Srta. Mariane Macedo,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Luiz Miguel Gonçalves,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Arthur Lopes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+José Moraes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Bella Câmara,PE,Recife,-8.0476,-34.877,300MB,129
+Carlos Eduardo Camargo,BA,Salvador,-12.9714,-38.5014,300MB,129
+Ana Júlia Correia,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Henrique Caldeira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Gabriel Vasconcelos,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Davi Miguel Rocha,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Maysa Rodrigues,BA,Salvador,-12.9714,-38.5014,100MB,99
+Luiz Otávio Duarte,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Kaique Caldeira,PE,Recife,-8.0476,-34.877,100MB,99
+Catarina Novaes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Sarah Souza,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Maria Liz Silveira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ana Laura Freitas,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Davi Luiz Lima,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Isabella Rezende,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Sr. João Miguel Vasconcelos,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sara Porto,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Eduardo Duarte,BA,Salvador,-12.9714,-38.5014,100MB,99
+Breno Marques,PE,Recife,-8.0476,-34.877,500MB,159
+Juan Correia,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Lorena Ribeiro,PE,Recife,-8.0476,-34.877,500MB,159
+Cauã Fonseca,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Pietra Silva,PE,Recife,-8.0476,-34.877,300MB,129
+Benício Porto,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Yasmin Novaes,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Lavínia das Neves,BA,Salvador,-12.9714,-38.5014,100MB,99
+Joana da Paz,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Caio da Paz,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Eloá Sousa,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Vinícius Lopes,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Alícia Cardoso,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Caleb Moura,BA,Salvador,-12.9714,-38.5014,500MB,159
+Ayla Nunes,BA,Salvador,-12.9714,-38.5014,300MB,129
+Bruno Albuquerque,PE,Recife,-8.0476,-34.877,100MB,99
+Lavínia Azevedo,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Caroline Aparecida,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Cecília Freitas,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Luiz Felipe Novais,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Julia Moura,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Isadora Viana,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Dr. Pietro da Mata,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Gustavo Henrique Mendes,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Luan Garcia,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Kevin da Mota,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Gael Cavalcante,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Leandro Melo,BA,Salvador,-12.9714,-38.5014,500MB,159
+Srta. Hellena Fonseca,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Ana Clara Duarte,PE,Recife,-8.0476,-34.877,1GB,199
+Nicolas Martins,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Srta. Olivia Fogaça,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Giovanna Borges,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Gael Henrique Vargas,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sr. Apollo Pires,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Srta. Sara Dias,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Ravi Sampaio,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Erick Leão,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Augusto Pastor,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sarah Dias,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Dr. Calebe Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ravy Macedo,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Juan Martins,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Yasmin da Paz,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Dra. Maya Sales,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Dra. Ísis Andrade,BA,Salvador,-12.9714,-38.5014,300MB,129
+Carolina Gomes,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Eduardo Farias,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Amanda Moreira,PE,Recife,-8.0476,-34.877,300MB,129
+Srta. Luísa Castro,PE,Recife,-8.0476,-34.877,1GB,199
+Dra. Vitória Sampaio,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Bianca Duarte,PE,Recife,-8.0476,-34.877,100MB,99
+Ana Lívia Santos,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Liz Andrade,BA,Salvador,-12.9714,-38.5014,1GB,199
+Benjamim Alves,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sr. Thomas da Mota,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Eloá da Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Luiz Fernando Rios,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maria Luísa Vasconcelos,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Cecília Macedo,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Yasmin Andrade,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Srta. Larissa Borges,PE,Recife,-8.0476,-34.877,1GB,199
+Emanuella Castro,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Laís da Costa,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Ana Júlia da Rocha,BA,Salvador,-12.9714,-38.5014,100MB,99
+Carolina Moura,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Luiz Henrique Moreira,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Pietra Costela,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Marcelo Fogaça,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Isabelly Macedo,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Catarina Novaes,BA,Salvador,-12.9714,-38.5014,100MB,99
+Maria Luísa Cavalcante,PE,Recife,-8.0476,-34.877,500MB,159
+Ísis da Cunha,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Heloísa Nunes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Davi Lucca Pinto,PE,Recife,-8.0476,-34.877,300MB,129
+Laura Guerra,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Vinicius Ferreira,PE,Recife,-8.0476,-34.877,500MB,159
+Stephany Borges,PE,Recife,-8.0476,-34.877,100MB,99
+Gael Henrique Moraes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Carolina Fonseca,BA,Salvador,-12.9714,-38.5014,500MB,159
+Catarina Pimenta,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maria Novaes,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ana Vitória Pires,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Ana Liz Cavalcanti,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Igor Souza,BA,Salvador,-12.9714,-38.5014,1GB,199
+Ravi Lucca Fonseca,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Catarina Mendonça,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Julia Moraes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Srta. Ana Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Antonella Almeida,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Stephany Pastor,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Zoe Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Leonardo Sousa,BA,Salvador,-12.9714,-38.5014,1GB,199
+Bento Melo,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dra. Maysa Montenegro,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Catarina Gomes,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dra. Maysa Oliveira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Letícia da Rosa,PE,Recife,-8.0476,-34.877,100MB,99
+Igor Martins,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Murilo Ramos,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Antônio Marques,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Mariana Mendes,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Luiz Gustavo Costa,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Raquel Ribeiro,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Helena Pires,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Isaque da Cruz,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Yan Novaes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sr. Kevin Caldeira,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Ana Lívia Gonçalves,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Gabrielly Azevedo,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Heloísa Vieira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Luiza Monteiro,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Marina Cardoso,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Aylla Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+João Pedro Melo,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Catarina Gomes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sarah Costa,PE,Recife,-8.0476,-34.877,100MB,99
+Antony Garcia,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ian Viana,BA,Salvador,-12.9714,-38.5014,100MB,99
+Laura Cunha,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Stephany Araújo,PE,Recife,-8.0476,-34.877,300MB,129
+Stella Freitas,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Luana Alves,BA,Salvador,-12.9714,-38.5014,500MB,159
+Lorena da Paz,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Davi Luiz Farias,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Luiza Sá,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Vitor Gabriel Pimenta,BA,Salvador,-12.9714,-38.5014,1GB,199
+Eloah Fonseca,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Isabelly Araújo,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Vitor Hugo das Neves,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Maysa Borges,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Vitória Freitas,BA,Salvador,-12.9714,-38.5014,300MB,129
+Matheus Gomes,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Sr. Otávio Mendonça,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Gabrielly Nogueira,BA,Salvador,-12.9714,-38.5014,100MB,99
+Isabella Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Srta. Valentina da Costa,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Davi Miguel Correia,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Ravy Alves,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Luan Silveira,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Heloísa Gomes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Nathan Porto,PE,Recife,-8.0476,-34.877,500MB,159
+Josué da Rosa,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Guilherme Barros,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Luiz Otávio Câmara,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dr. Luiz Gustavo da Luz,PE,Recife,-8.0476,-34.877,100MB,99
+Olívia Cunha,BA,Salvador,-12.9714,-38.5014,300MB,129
+Jade Oliveira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Henrique Santos,PE,Recife,-8.0476,-34.877,100MB,99
+João Pedro Sousa,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Calebe Cirino,BA,Salvador,-12.9714,-38.5014,500MB,159
+Aurora Jesus,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Luiz Henrique Montenegro,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Cecilia Fogaça,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Isaque Melo,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+João Lucas Mendonça,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Maria Helena Siqueira,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Isabelly Pacheco,PE,Recife,-8.0476,-34.877,500MB,159
+Valentim Brito,BA,Salvador,-12.9714,-38.5014,300MB,129
+João Felipe Pacheco,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Ana Beatriz Freitas,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Heloisa Gonçalves,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Yan Viana,PE,Recife,-8.0476,-34.877,500MB,159
+Dante Silveira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Joana Garcia,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Maria Luísa Fonseca,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Eduarda Silveira,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Liam da Cruz,PE,Recife,-8.0476,-34.877,100MB,99
+Beatriz Fogaça,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Evelyn Abreu,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Vitor Gabriel Correia,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Olivia Garcia,BA,Salvador,-12.9714,-38.5014,1GB,199
+Gabrielly Rezende,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Luara Moura,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Pedro Henrique Farias,BA,Salvador,-12.9714,-38.5014,1GB,199
+Gabriela Cavalcanti,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Vinícius Sampaio,BA,Salvador,-12.9714,-38.5014,300MB,129
+Lorena Viana,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+José Miguel Lopes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Srta. Rebeca Pacheco,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Oliver Novais,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Srta. Caroline Vasconcelos,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Elisa Fogaça,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Thiago Teixeira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Heloísa Costa,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Ágatha Rios,BA,Salvador,-12.9714,-38.5014,100MB,99
+Sr. Rhavi Lima,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Srta. Emanuelly Lopes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Gabrielly Dias,PE,Recife,-8.0476,-34.877,1GB,199
+Valentim Rios,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Davi Miguel da Luz,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Maria Cecília Campos,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Maitê Silveira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Miguel Fogaça,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Carolina Cunha,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Asafe Santos,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Yuri Rodrigues,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Anthony Gabriel Pinto,PE,Recife,-8.0476,-34.877,100MB,99
+João Gabriel Novais,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Clarice Gomes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Brayan Pastor,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Fernanda da Paz,BA,Salvador,-12.9714,-38.5014,1GB,199
+Srta. Lorena Ramos,BA,Salvador,-12.9714,-38.5014,300MB,129
+Diogo Silva,PE,Recife,-8.0476,-34.877,300MB,129
+Evelyn Moraes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Joana Lopes,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Bianca da Mota,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Dra. Maria Laura Correia,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Juliana Aragão,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Enrico Costa,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Júlia Caldeira,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Mateus Andrade,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dr. João Jesus,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Thomas Correia,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sr. Luiz Otávio Jesus,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Luiz Gustavo da Luz,PE,Recife,-8.0476,-34.877,300MB,129
+Dr. José Miguel Macedo,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Dr. Cauã Garcia,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Larissa das Neves,PE,Recife,-8.0476,-34.877,1GB,199
+Alexandre Cassiano,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Rael Castro,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Raul Ferreira,PE,Recife,-8.0476,-34.877,500MB,159
+Ísis Ribeiro,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Isabela da Rosa,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Anthony Costa,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Pietro Pinto,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Isabel Souza,BA,Salvador,-12.9714,-38.5014,100MB,99
+Luiz Felipe Gonçalves,BA,Salvador,-12.9714,-38.5014,1GB,199
+Luísa Cardoso,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Bárbara da Mata,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Theodoro Moreira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Laís Cavalcante,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dra. Marcela Pimenta,PE,Recife,-8.0476,-34.877,1GB,199
+Ryan Marques,BA,Salvador,-12.9714,-38.5014,500MB,159
+Isabelly Peixoto,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Davi Lucas Monteiro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Yuri Duarte,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sarah Araújo,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Srta. Bianca Costela,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Manuela Almeida,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Srta. Clarice Cavalcante,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Igor Caldeira,BA,Salvador,-12.9714,-38.5014,100MB,99
+Ravi Andrade,PE,Recife,-8.0476,-34.877,1GB,199
+Valentina Mendes,PE,Recife,-8.0476,-34.877,500MB,159
+Theo Mendes,PE,Recife,-8.0476,-34.877,100MB,99
+Dra. Ana Vitória Novaes,PE,Recife,-8.0476,-34.877,500MB,159
+Sr. Danilo Fogaça,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Lucas Gabriel Pimenta,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Maitê Sales,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Dr. Rael Vargas,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Dr. Anthony Gabriel Novaes,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Ana Julia Gomes,PE,Recife,-8.0476,-34.877,500MB,159
+Pedro Miguel da Luz,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Laís Pinto,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Léo Macedo,BA,Salvador,-12.9714,-38.5014,100MB,99
+Diogo Câmara,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Levi Abreu,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Cecília Monteiro,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Heloísa Pimenta,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dr. Isaque Carvalho,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Mariane Cavalcante,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Isaque Machado,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Raquel Castro,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Davi Sampaio,PR,Curitiba,-25.4284,-49.2733,1GB,199
+João Felipe da Rosa,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Bella Borges,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Bianca da Paz,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Jade da Conceição,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dra. Aylla Novaes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sra. Isabel Macedo,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Sr. Mathias Freitas,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Dra. Maria Alice Silveira,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Bernardo da Costa,PE,Recife,-8.0476,-34.877,300MB,129
+Sr. Joaquim Araújo,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Gabriela Pastor,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+João da Cruz,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Matteo Rios,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Davi Luiz Pires,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Otto Moreira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+José Andrade,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sr. Brayan Barbosa,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Theodoro das Neves,PE,Recife,-8.0476,-34.877,500MB,159
+Heloisa Sousa,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Matheus Macedo,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Sra. Isabel Pereira,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Maysa Aragão,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Agatha Vargas,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Liz Macedo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Francisco Viana,PE,Recife,-8.0476,-34.877,300MB,129
+Dr. Thales Rocha,BA,Salvador,-12.9714,-38.5014,1GB,199
+Luiz Henrique da Costa,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Dr. Dom Câmara,SP,São Paulo,-23.5505,-46.6333,500MB,159
+João Gabriel Cavalcanti,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Valentim Guerra,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Lucas Gabriel Albuquerque,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Luiza Barbosa,BA,Salvador,-12.9714,-38.5014,1GB,199
+Srta. Luísa Casa Grande,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Antony Cirino,PE,Recife,-8.0476,-34.877,300MB,129
+Maria Flor Duarte,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. Marcelo Guerra,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ísis Ramos,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Lorena Rocha,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Beatriz Correia,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Luiz Miguel da Cruz,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Isadora Peixoto,PE,Recife,-8.0476,-34.877,100MB,99
+Srta. Ana Lívia Barros,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Mateus da Rosa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Arthur Miguel Aparecida,BA,Salvador,-12.9714,-38.5014,500MB,159
+Paulo Teixeira,PE,Recife,-8.0476,-34.877,100MB,99
+Matheus Albuquerque,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Emanuel da Cruz,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Dr. Renan Novaes,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Isabela Barbosa,PR,Curitiba,-25.4284,-49.2733,100MB,99
+João Guilherme da Cunha,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Sr. Francisco Moraes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Maria Isis Pinto,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Antonella Machado,BA,Salvador,-12.9714,-38.5014,300MB,129
+Allana Ribeiro,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Emanuelly Vasconcelos,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Lívia Duarte,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sr. Davi Lucca Abreu,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Bianca Marques,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sr. Theo Porto,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Rodrigo Moraes,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Maria Pimenta,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Gael Henrique Caldeira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Dra. Maria Flor Rios,SP,São Paulo,-23.5505,-46.6333,300MB,129
+João Gabriel Duarte,BA,Salvador,-12.9714,-38.5014,500MB,159
+Cecília Pinto,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Isabella Souza,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Diego Macedo,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Isaque Mendes,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Enzo Vieira,PE,Recife,-8.0476,-34.877,1GB,199
+Vitor Gabriel Camargo,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Letícia Pacheco,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Arthur Gabriel Fonseca,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Henry Gabriel da Luz,BA,Salvador,-12.9714,-38.5014,500MB,159
+Dra. Maria Isis Duarte,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Marcelo Abreu,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Sara da Conceição,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Alícia Vieira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Isis Moura,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Srta. Laís Macedo,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Sr. Miguel Novaes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Henry Gabriel Vargas,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Lucas Gabriel Guerra,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Laura Novaes,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Levi da Rosa,PE,Recife,-8.0476,-34.877,1GB,199
+Benicio Rocha,PE,Recife,-8.0476,-34.877,1GB,199
+Dr. Davi Luiz da Mota,PE,Recife,-8.0476,-34.877,100MB,99
+Raul Vieira,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Júlia Sá,PE,Recife,-8.0476,-34.877,300MB,129
+Vicente Pastor,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Luigi Almeida,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Brenda Sá,PE,Recife,-8.0476,-34.877,1GB,199
+Jade Moura,PE,Recife,-8.0476,-34.877,300MB,129
+Emanuelly Cassiano,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dr. Yuri Sousa,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sra. Maria Julia Cassiano,PE,Recife,-8.0476,-34.877,500MB,159
+Sr. Rodrigo Albuquerque,PE,Recife,-8.0476,-34.877,100MB,99
+Dra. Antonella da Mota,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Ana Júlia Campos,BA,Salvador,-12.9714,-38.5014,300MB,129
+Dr. Asafe Silva,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Rodrigo Nunes,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Matteo Lima,PE,Recife,-8.0476,-34.877,500MB,159
+Lunna Borges,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Isis Nogueira,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Srta. Gabrielly Sampaio,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Bárbara Souza,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maria Julia Farias,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Miguel Albuquerque,BA,Salvador,-12.9714,-38.5014,100MB,99
+Vitor Pacheco,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Bruna Fogaça,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dra. Aylla da Mata,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Ana Cecília Cavalcanti,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Carolina Casa Grande,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Ana Sophia Moraes,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Rafael Garcia,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Bryan Vieira,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Dom Mendes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Lucas Gabriel Novaes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Aurora Jesus,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Juan Nascimento,BA,Salvador,-12.9714,-38.5014,300MB,129
+Cauã Caldeira,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Helena Siqueira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Brayan Farias,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Lorenzo Santos,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Thomas Costa,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Paulo Araújo,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Bento Andrade,BA,Salvador,-12.9714,-38.5014,1GB,199
+Elisa Gonçalves,PE,Recife,-8.0476,-34.877,500MB,159
+Manuella Montenegro,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dra. Antonella Melo,PE,Recife,-8.0476,-34.877,100MB,99
+Cauê Cavalcante,BA,Salvador,-12.9714,-38.5014,1GB,199
+Liz Moura,PE,Recife,-8.0476,-34.877,100MB,99
+Josué Martins,PE,Recife,-8.0476,-34.877,500MB,159
+Srta. Antonella Ferreira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Nicole Abreu,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Ryan da Mota,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sr. Francisco da Rosa,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Maria Clara Barros,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Dra. Gabrielly Costa,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Mariana Farias,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Rhavi Marques,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Antony Ferreira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Luan Duarte,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Eloah Nunes,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dom Porto,PE,Recife,-8.0476,-34.877,300MB,129
+Felipe Santos,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Olívia Sousa,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Bianca Cunha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Guilherme Pereira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Isis da Mata,BA,Salvador,-12.9714,-38.5014,500MB,159
+Oliver Martins,PE,Recife,-8.0476,-34.877,1GB,199
+Sra. Emanuella Aragão,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sr. Ravy da Cruz,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Benjamim Leão,PE,Recife,-8.0476,-34.877,500MB,159
+João Vitor Brito,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Srta. Ester Melo,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Dr. João Vitor Albuquerque,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Ravi Lucca Freitas,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Gabriel Freitas,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Lucas Gabriel Fonseca,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Luiza Nunes,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sarah Ramos,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Agatha da Conceição,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dom Mendes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Sr. João Pedro da Rocha,PE,Recife,-8.0476,-34.877,300MB,129
+Agatha Rodrigues,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Heloisa Azevedo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+João Gabriel Camargo,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Ana Luiza Cavalcante,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Allana Rios,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Srta. Juliana da Rocha,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Oliver Camargo,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Yasmin Santos,BA,Salvador,-12.9714,-38.5014,1GB,199
+Gabrielly Aparecida,PE,Recife,-8.0476,-34.877,100MB,99
+Maria Vitória da Luz,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Sabrina Novais,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Isadora Porto,PE,Recife,-8.0476,-34.877,300MB,129
+Luna Barbosa,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Dra. Lara Costa,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Srta. Clarice da Rocha,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Rael Marques,BA,Salvador,-12.9714,-38.5014,300MB,129
+Agatha Vieira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Srta. Marcela Peixoto,BA,Salvador,-12.9714,-38.5014,300MB,129
+Eloá Nogueira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Cecília Alves,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Carolina Sousa,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Dra. Lunna Caldeira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Kevin Monteiro,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Juan Pinto,BA,Salvador,-12.9714,-38.5014,100MB,99
+Ana Vitória da Mota,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Rebeca Vargas,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Isabella Correia,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Bruno Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Mateus Sá,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Stephany Almeida,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Guilherme Mendes,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Isaque Vasconcelos,PE,Recife,-8.0476,-34.877,100MB,99
+Joaquim Aparecida,PE,Recife,-8.0476,-34.877,300MB,129
+Caleb da Cunha,PE,Recife,-8.0476,-34.877,500MB,159
+Maysa Moraes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Heloisa da Mata,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dr. Fernando Fonseca,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Dr. Henry Moraes,BA,Salvador,-12.9714,-38.5014,500MB,159
+Lorenzo Rezende,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Mateus Marques,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Renan Moreira,PE,Recife,-8.0476,-34.877,500MB,159
+Emanuella Castro,PR,Curitiba,-25.4284,-49.2733,1GB,199
+José Pedro da Costa,BA,Salvador,-12.9714,-38.5014,1GB,199
+Sr. João Miguel Barros,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Lara Gonçalves,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Arthur Cavalcanti,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Liz Fernandes,BA,Salvador,-12.9714,-38.5014,100MB,99
+Thomas Martins,PE,Recife,-8.0476,-34.877,300MB,129
+Otávio Sampaio,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Pedro da Luz,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sr. Vicente Gonçalves,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Sra. Melina da Costa,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Ravi Lucca Novais,BA,Salvador,-12.9714,-38.5014,300MB,129
+Léo Pereira,BA,Salvador,-12.9714,-38.5014,100MB,99
+Sr. Apollo Pinto,BA,Salvador,-12.9714,-38.5014,300MB,129
+Mathias Siqueira,BA,Salvador,-12.9714,-38.5014,500MB,159
+Antônio Rezende,PE,Recife,-8.0476,-34.877,300MB,129
+Vitor Gabriel Pires,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maitê Silveira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Srta. Ana Vitória Sá,BA,Salvador,-12.9714,-38.5014,300MB,129
+Yuri Aragão,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Matheus Costela,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Liam da Paz,BA,Salvador,-12.9714,-38.5014,1GB,199
+Calebe da Cunha,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sr. Léo da Rosa,PE,Recife,-8.0476,-34.877,500MB,159
+Rafael Almeida,PE,Recife,-8.0476,-34.877,300MB,129
+Davi Lucca Mendonça,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Ayla Campos,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Milena Andrade,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Heitor da Paz,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Olívia Cavalcanti,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Aurora Araújo,BA,Salvador,-12.9714,-38.5014,1GB,199
+Pietro da Rosa,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Anthony Gabriel Fernandes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Maria Sophia Casa Grande,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Hellena Borges,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Anna Liz Pimenta,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Vitor Hugo Cavalcante,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Paulo Camargo,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ryan Alves,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Pedro Lucas Nunes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dra. Alice da Mota,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Sofia Carvalho,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Sabrina Costela,PE,Recife,-8.0476,-34.877,100MB,99
+Francisco Melo,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Cecilia Azevedo,BA,Salvador,-12.9714,-38.5014,100MB,99
+Srta. Maria Alice Jesus,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+José Pedro Pires,BA,Salvador,-12.9714,-38.5014,300MB,129
+Alexandre Teixeira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maria Luiza Ferreira,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Mariah Macedo,SP,São Paulo,-23.5505,-46.6333,1GB,199
+José Pedro Aragão,BA,Salvador,-12.9714,-38.5014,100MB,99
+Heitor Aragão,BA,Salvador,-12.9714,-38.5014,1GB,199
+Srta. Bianca Montenegro,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Lucas Gabriel Aragão,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Lucca Sales,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Luiz Fernando da Paz,PE,Recife,-8.0476,-34.877,300MB,129
+Juan Nunes,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sr. Matteo Rocha,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Henry Farias,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sr. Bento Araújo,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sr. Rhavi Pinto,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Otto Gomes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Brenda Porto,PE,Recife,-8.0476,-34.877,1GB,199
+Maya Machado,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sara Rios,PE,Recife,-8.0476,-34.877,500MB,159
+Isabela Caldeira,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sr. Anthony Gabriel Ferreira,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Heitor Guerra,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Sr. Arthur Gabriel Lopes,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Dr. Henry Cirino,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Luara Cunha,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Heloísa Almeida,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Catarina da Luz,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dra. Alana da Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Sra. Maria Luísa Fernandes,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Benjamim Rios,PE,Recife,-8.0476,-34.877,1GB,199
+Breno da Paz,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Benicio Pereira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Vitor Nascimento,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Sr. Emanuel Câmara,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Olivia Gomes,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Danilo Garcia,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Gustavo Henrique Martins,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dra. Alexia Silva,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dra. Juliana Azevedo,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sophie da Mata,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Antônio Rios,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Davi Lucas Casa Grande,BA,Salvador,-12.9714,-38.5014,100MB,99
+Dr. Mateus Garcia,BA,Salvador,-12.9714,-38.5014,500MB,159
+Maria Vitória Barbosa,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Milena Fernandes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+João Guilherme Sousa,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Dr. Yan Duarte,PE,Recife,-8.0476,-34.877,100MB,99
+Bianca Montenegro,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Marcos Vinicius Lopes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Carlos Eduardo Fogaça,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Antony Pastor,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Rodrigo Lopes,BA,Salvador,-12.9714,-38.5014,1GB,199
+Ana Rodrigues,PE,Recife,-8.0476,-34.877,500MB,159
+Alice Freitas,BA,Salvador,-12.9714,-38.5014,500MB,159
+Aylla Moreira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Maria Helena da Rocha,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Caroline da Rocha,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Melissa Lopes,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Dra. Luna da Conceição,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Cauã Porto,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Igor Moura,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Anthony Gabriel Gonçalves,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Letícia Pires,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Catarina Cavalcanti,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Marcela Sales,BA,Salvador,-12.9714,-38.5014,100MB,99
+Calebe Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+João Pedro Nunes,BA,Salvador,-12.9714,-38.5014,100MB,99
+Josué Nascimento,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Manuella Marques,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Samuel Almeida,PE,Recife,-8.0476,-34.877,100MB,99
+Srta. Maitê Fonseca,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Ryan Cavalcante,PE,Recife,-8.0476,-34.877,500MB,159
+Lavínia Borges,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Ana Luiza Alves,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Raquel Ferreira,PE,Recife,-8.0476,-34.877,1GB,199
+Juan Lopes,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Manuela Silveira,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Helena Cardoso,PE,Recife,-8.0476,-34.877,500MB,159
+Dra. Cecília Almeida,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Marcelo Lima,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Helena Sampaio,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Dra. Ana Liz Sousa,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Dom da Paz,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Maysa Viana,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+João Gabriel Guerra,BA,Salvador,-12.9714,-38.5014,1GB,199
+João Casa Grande,BA,Salvador,-12.9714,-38.5014,500MB,159
+Allana Sá,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Emanuella Novais,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Luísa Ferreira,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sra. Olívia Jesus,BA,Salvador,-12.9714,-38.5014,100MB,99
+Ana Luiza da Mota,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Otto Moura,BA,Salvador,-12.9714,-38.5014,100MB,99
+Benjamin Sousa,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Benjamin da Rosa,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Thales Lopes,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Gabriel Gonçalves,PE,Recife,-8.0476,-34.877,500MB,159
+Ian Azevedo,PE,Recife,-8.0476,-34.877,300MB,129
+Sra. Ana Beatriz Pimenta,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Elisa Duarte,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Vitória Macedo,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Sophia Aparecida,PE,Recife,-8.0476,-34.877,300MB,129
+Lara Rezende,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Yasmin Fogaça,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Diego da Cunha,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sr. Matteo Marques,PE,Recife,-8.0476,-34.877,100MB,99
+Liam Freitas,PE,Recife,-8.0476,-34.877,1GB,199
+Lívia Mendes,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Nicole Montenegro,BA,Salvador,-12.9714,-38.5014,500MB,159
+Rael Campos,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dra. Milena Sá,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Emanuel Pires,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Henry Gabriel Martins,PE,Recife,-8.0476,-34.877,100MB,99
+Luara Cavalcanti,BA,Salvador,-12.9714,-38.5014,500MB,159
+Gustavo Henrique Pastor,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Laís da Luz,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Bento Costa,BA,Salvador,-12.9714,-38.5014,100MB,99
+Beatriz Andrade,BA,Salvador,-12.9714,-38.5014,500MB,159
+Lucas Gabriel Viana,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Luigi Guerra,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Ana Beatriz Vieira,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Luiz Fernando Vasconcelos,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Agatha Barbosa,PE,Recife,-8.0476,-34.877,1GB,199
+Evelyn da Rosa,BA,Salvador,-12.9714,-38.5014,100MB,99
+Otto da Cunha,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Luan Fernandes,PE,Recife,-8.0476,-34.877,300MB,129
+Olívia da Rocha,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Matteo Pereira,PE,Recife,-8.0476,-34.877,1GB,199
+Rafael Almeida,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sra. Camila Cunha,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Arthur Gabriel Moraes,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Srta. Caroline Santos,BA,Salvador,-12.9714,-38.5014,1GB,199
+Dr. Kevin Farias,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Mariane Carvalho,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Marcela Pires,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Calebe Gomes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Mariane Novais,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sr. Pedro Miguel Vargas,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Daniela Fonseca,BA,Salvador,-12.9714,-38.5014,300MB,129
+Brayan Dias,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Vinicius Nascimento,PE,Recife,-8.0476,-34.877,1GB,199
+Dra. Fernanda da Rosa,PE,Recife,-8.0476,-34.877,500MB,159
+Maria Clara das Neves,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Samuel Monteiro,PE,Recife,-8.0476,-34.877,300MB,129
+Sr. Anthony da Cunha,PE,Recife,-8.0476,-34.877,1GB,199
+Heloisa Fonseca,PE,Recife,-8.0476,-34.877,100MB,99
+Aurora Borges,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Hadassa Machado,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Isabel Pastor,BA,Salvador,-12.9714,-38.5014,1GB,199
+Ravy Rios,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Marcelo Fernandes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Maria Julia Mendes,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Dra. Lavínia Camargo,BA,Salvador,-12.9714,-38.5014,100MB,99
+Ana Luiza Siqueira,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Isadora Silveira,BA,Salvador,-12.9714,-38.5014,100MB,99
+Maria Sophia Vasconcelos,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Luiz Otávio Teixeira,PE,Recife,-8.0476,-34.877,500MB,159
+João Pedro Jesus,BA,Salvador,-12.9714,-38.5014,1GB,199
+Natália Barbosa,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Dra. Melissa Marques,PE,Recife,-8.0476,-34.877,500MB,159
+Bruna Almeida,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Juliana Cassiano,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Ana Clara da Conceição,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Ana Clara Câmara,PR,Curitiba,-25.4284,-49.2733,100MB,99
+João Gabriel Mendonça,PE,Recife,-8.0476,-34.877,100MB,99
+Isaac Guerra,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Dr. Liam da Rosa,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Henry Gabriel da Luz,PE,Recife,-8.0476,-34.877,500MB,159
+Luna Viana,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sr. Leandro da Conceição,PE,Recife,-8.0476,-34.877,100MB,99
+Maria Isis Pinto,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Maya da Mata,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Letícia da Rosa,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Davi Lucas Garcia,BA,Salvador,-12.9714,-38.5014,300MB,129
+Luiz Miguel Moura,BA,Salvador,-12.9714,-38.5014,500MB,159
+Rafaela Cunha,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Sophie Albuquerque,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Allana Sousa,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Gabriel Machado,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Sr. João Gabriel Cavalcanti,BA,Salvador,-12.9714,-38.5014,300MB,129
+Luan Guerra,PE,Recife,-8.0476,-34.877,1GB,199
+Lorenzo Azevedo,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Danilo Azevedo,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Sra. Hadassa Ferreira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dr. Pedro da Mata,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Dr. Otto Rodrigues,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Ana Carolina da Mota,PE,Recife,-8.0476,-34.877,100MB,99
+Paulo Nogueira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Kevin Costela,BA,Salvador,-12.9714,-38.5014,500MB,159
+Cecilia Duarte,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maria Clara Cardoso,PE,Recife,-8.0476,-34.877,1GB,199
+Sr. Davi Miguel Andrade,BA,Salvador,-12.9714,-38.5014,1GB,199
+Liz Barros,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Sarah Costela,BA,Salvador,-12.9714,-38.5014,1GB,199
+Luiz Henrique Garcia,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Luana Azevedo,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Julia da Costa,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sr. Danilo Novaes,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+João Guilherme da Mota,BA,Salvador,-12.9714,-38.5014,1GB,199
+Samuel Marques,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Asafe Gomes,PE,Recife,-8.0476,-34.877,300MB,129
+Ana Vitória Almeida,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Henry Gabriel Araújo,BA,Salvador,-12.9714,-38.5014,500MB,159
+Dr. Raul Gomes,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Dr. Valentim da Paz,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Dra. Raquel Carvalho,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Vitor Hugo Farias,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Ana Carolina Sales,BA,Salvador,-12.9714,-38.5014,300MB,129
+Antony Moreira,BA,Salvador,-12.9714,-38.5014,500MB,159
+Raul Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Ana Carolina Guerra,PE,Recife,-8.0476,-34.877,100MB,99
+Isaac Aragão,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Amanda Vieira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Thomas Campos,PE,Recife,-8.0476,-34.877,500MB,159
+Mathias Souza,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Ana Beatriz Viana,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Eloá Borges,BA,Salvador,-12.9714,-38.5014,300MB,129
+José Pedro Cavalcanti,PE,Recife,-8.0476,-34.877,100MB,99
+Henrique Brito,BA,Salvador,-12.9714,-38.5014,100MB,99
+Otávio Camargo,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Renan Sá,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Mariah Rodrigues,BA,Salvador,-12.9714,-38.5014,500MB,159
+Lucca Cavalcante,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Bianca Câmara,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Samuel Santos,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Samuel Mendonça,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Yasmin Gomes,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Ana Júlia Moura,PE,Recife,-8.0476,-34.877,100MB,99
+Sr. Guilherme Caldeira,PE,Recife,-8.0476,-34.877,500MB,159
+Melissa Duarte,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Luana Rodrigues,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Laís Cassiano,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Maria Luiza Caldeira,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dr. Matheus Gonçalves,BA,Salvador,-12.9714,-38.5014,300MB,129
+Erick Mendes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Dra. Bella Duarte,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Rebeca Oliveira,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Luan Rios,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Yago Almeida,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Nina Alves,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Letícia Pacheco,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Srta. Ana Vitória Lima,CE,Fortaleza,-3.7319,-38.5267,500MB,159
+Davi da Rosa,BA,Salvador,-12.9714,-38.5014,100MB,99
+Luan Brito,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Jade Novais,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maria Liz Correia,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Hellena Cardoso,PE,Recife,-8.0476,-34.877,300MB,129
+Gustavo Henrique Peixoto,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Rebeca Costela,PE,Recife,-8.0476,-34.877,1GB,199
+Henry Oliveira,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Erick Melo,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Josué Fonseca,PE,Recife,-8.0476,-34.877,500MB,159
+Rodrigo Vieira,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sr. Antony Pastor,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Sr. Guilherme Aragão,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Larissa Nogueira,PR,Curitiba,-25.4284,-49.2733,100MB,99
+Arthur Gabriel Rezende,PE,Recife,-8.0476,-34.877,1GB,199
+Letícia Fogaça,BA,Salvador,-12.9714,-38.5014,300MB,129
+Caleb Monteiro,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Arthur Correia,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Hadassa Pires,PE,Recife,-8.0476,-34.877,100MB,99
+Alice Sales,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Maria Julia Marques,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maria Alice Lopes,PE,Recife,-8.0476,-34.877,100MB,99
+Beatriz Vasconcelos,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Luigi Lopes,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Pedro da Cunha,BA,Salvador,-12.9714,-38.5014,1GB,199
+Ana Liz da Mata,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Sr. Renan Câmara,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Augusto Almeida,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Maria Helena Costa,PE,Recife,-8.0476,-34.877,100MB,99
+Pedro Monteiro,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Caio Ribeiro,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Otávio Azevedo,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Sophie Brito,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Ryan Guerra,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Dr. José Pedro Farias,BA,Salvador,-12.9714,-38.5014,300MB,129
+Sr. Igor da Cruz,BA,Salvador,-12.9714,-38.5014,300MB,129
+Luara da Cunha,BA,Salvador,-12.9714,-38.5014,500MB,159
+Isabella Ferreira,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Pedro Sales,PE,Recife,-8.0476,-34.877,300MB,129
+Alexandre Vargas,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Lucas Ribeiro,PE,Recife,-8.0476,-34.877,300MB,129
+Lucca Porto,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Amanda Melo,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Davi Miguel Sousa,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Dr. João Vitor Guerra,PE,Recife,-8.0476,-34.877,500MB,159
+Alexia Gomes,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Maya Pastor,BA,Salvador,-12.9714,-38.5014,1GB,199
+Caio da Luz,BA,Salvador,-12.9714,-38.5014,500MB,159
+Ana Julia Fonseca,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Sr. Kaique Caldeira,BA,Salvador,-12.9714,-38.5014,1GB,199
+Eduardo Pires,CE,Fortaleza,-3.7319,-38.5267,100MB,99
+Thales Garcia,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Enzo Rezende,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Marcelo Nunes,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Lívia da Costa,PE,Recife,-8.0476,-34.877,100MB,99
+Srta. Lorena Vargas,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Antonella Porto,MG,Belo Horizonte,-19.9167,-43.9345,100MB,99
+Natália da Mata,BA,Salvador,-12.9714,-38.5014,300MB,129
+Vitória Albuquerque,BA,Salvador,-12.9714,-38.5014,500MB,159
+Sr. João Miguel Casa Grande,PE,Recife,-8.0476,-34.877,500MB,159
+Brenda Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Stephany Jesus,BA,Salvador,-12.9714,-38.5014,300MB,129
+Maria Flor Albuquerque,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Srta. Camila Nogueira,BA,Salvador,-12.9714,-38.5014,300MB,129
+Juliana Correia,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Liam Cassiano,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Melissa Mendes,SP,São Paulo,-23.5505,-46.6333,1GB,199
+João Miguel Azevedo,PE,Recife,-8.0476,-34.877,100MB,99
+Maria Julia Nunes,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Matheus Ramos,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Maria Cecília Jesus,PR,Curitiba,-25.4284,-49.2733,1GB,199
+Sr. Luiz Otávio Silva,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Yago Cassiano,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Letícia Castro,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Aylla da Cruz,SP,São Paulo,-23.5505,-46.6333,100MB,99
+Dr. Davi Luiz Souza,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Maria Julia Rocha,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Gabrielly Andrade,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Daniela Dias,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Yago Monteiro,PE,Recife,-8.0476,-34.877,1GB,199
+Maria Liz Vasconcelos,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Gabrielly Sampaio,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Sophie da Rosa,MG,Belo Horizonte,-19.9167,-43.9345,300MB,129
+Valentina Rodrigues,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Arthur Gabriel da Cruz,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Theo Fogaça,PE,Recife,-8.0476,-34.877,1GB,199
+Clara Duarte,PE,Recife,-8.0476,-34.877,300MB,129
+Henrique Albuquerque,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Antony Nogueira,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Rebeca Vasconcelos,BA,Salvador,-12.9714,-38.5014,300MB,129
+Hadassa Nunes,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Ana Vitória Dias,CE,Fortaleza,-3.7319,-38.5267,300MB,129
+Isis Machado,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Bianca Mendes,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Dra. Bárbara Guerra,RJ,Rio de Janeiro,-22.9068,-43.1729,1GB,199
+Ian Lopes,MG,Belo Horizonte,-19.9167,-43.9345,1GB,199
+Sra. Maria Novais,PE,Recife,-8.0476,-34.877,300MB,129
+Sra. Ana Gomes,PE,Recife,-8.0476,-34.877,100MB,99
+Sr. Carlos Eduardo Garcia,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Joaquim Campos,RJ,Rio de Janeiro,-22.9068,-43.1729,100MB,99
+Isabella Gonçalves,PR,Curitiba,-25.4284,-49.2733,500MB,159
+Esther Martins,RJ,Rio de Janeiro,-22.9068,-43.1729,500MB,159
+Sr. Ryan Dias,SP,São Paulo,-23.5505,-46.6333,1GB,199
+Ravi Lima,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+Sr. Henrique Melo,BA,Salvador,-12.9714,-38.5014,300MB,129
+Anthony Gabriel Pimenta,PE,Recife,-8.0476,-34.877,500MB,159
+Ana Liz Montenegro,CE,Fortaleza,-3.7319,-38.5267,1GB,199
+Maria Alice Aparecida,RJ,Rio de Janeiro,-22.9068,-43.1729,300MB,129
+José Miguel Casa Grande,SP,São Paulo,-23.5505,-46.6333,300MB,129
+Isabelly Lima,PR,Curitiba,-25.4284,-49.2733,300MB,129
+Sabrina Ramos,SP,São Paulo,-23.5505,-46.6333,500MB,159
+Fernando Pastor,MG,Belo Horizonte,-19.9167,-43.9345,500MB,159
+Heloísa Lima,PE,Recife,-8.0476,-34.877,500MB,159
+Calebe Caldeira,PR,Curitiba,-25.4284,-49.2733,100MB,99
