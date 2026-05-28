@@ -1,8 +1,8 @@
-from dash import html, dcc
-from dash import callback
+from dash import html
+from dash import dcc
 from dash import Input
 from dash import Output
-from dash import State
+from dash import callback
 
 import dash_bootstrap_components as dbc
 
@@ -27,15 +27,134 @@ def layout():
         "%H:%M:%S"
     )
 
+    # =========================
+    # DADOS INICIAIS
+    # =========================
+
+    cidades = (
+
+        df["cidade"]
+
+        .value_counts()
+
+        .head(10)
+
+        .reset_index()
+
+    )
+
+    cidades.columns = [
+        "cidade",
+        "clientes"
+    ]
+
+    # =========================
+    # BAR CHART
+    # =========================
+
+    fig = px.bar(
+
+        cidades,
+
+        x="cidade",
+
+        y="clientes",
+
+        template="plotly_dark",
+
+        color="clientes",
+
+        text_auto=True
+
+    )
+
+    fig.update_layout(
+
+        paper_bgcolor="#0f172a",
+
+        plot_bgcolor="#0f172a",
+
+        font_color="white",
+
+        title="Clientes Online por Cidade",
+
+        title_x=0.5
+
+    )
+
+    # =========================
+    # LINE CHART
+    # =========================
+
+    horas = [
+
+        "08h",
+        "09h",
+        "10h",
+        "11h",
+        "12h",
+        "13h",
+        "14h",
+        "15h"
+
+    ]
+
+    trafego = [
+
+        random.randint(40, 100)
+
+        for _ in horas
+
+    ]
+
+    df_line = pd.DataFrame({
+
+        "hora": horas,
+        "trafego": trafego
+
+    })
+
+    fig_line = px.line(
+
+        df_line,
+
+        x="hora",
+
+        y="trafego",
+
+        template="plotly_dark",
+
+        markers=True
+
+    )
+
+    fig_line.update_layout(
+
+        paper_bgcolor="#0f172a",
+
+        plot_bgcolor="#0f172a",
+
+        font_color="white",
+
+        title="📈 Tráfego de Rede em Tempo Real",
+
+        title_x=0.5
+
+    )
+
+    # =========================
+    # LAYOUT
+    # =========================
+
     return html.Div([
 
         # =========================
-        # AUTO UPDATE
+        # INTERVAL REALTIME
         # =========================
 
         dcc.Interval(
 
-            id="interval-update",
+            id="intervalo-realtime",
 
             interval=3000,
 
@@ -44,7 +163,7 @@ def layout():
         ),
 
         # =========================
-        # TOAST ALERT
+        # TOAST
         # =========================
 
         dbc.Toast(
@@ -78,132 +197,6 @@ def layout():
         ),
 
         # =========================
-        # MODAL REGIÕES
-        # =========================
-
-        dbc.Modal([
-
-            dbc.ModalHeader(
-
-                dbc.ModalTitle(
-                    "🚨 Regiões Críticas"
-                )
-
-            ),
-
-            dbc.ModalBody([
-                html.Hr(),
-
-                html.H5(
-                    "Fortaleza/CE"
-                ),
-
-                html.P(
-                    "Bairro: Aldeota"
-                ),
-
-                html.P(
-                    "Status: INSTÁVEL"
-                ),
-
-                html.P(
-                    "Chamados: 27"
-                ),
-
-                html.Hr(),
-
-                html.H5(
-                    "Belo Horizonte/MG"
-                ),
-
-                html.P(
-                    "Bairro: Savassi"
-                ),
-
-                html.P(
-                    "Status: OFFLINE"
-                ),
-
-                html.P(
-                    "Chamados: 63"
-                ),
-                html.H5(
-                    "Campinas/SP"
-                ),
-
-                html.P(
-                    "Bairro: Centro"
-                ),
-
-                html.P(
-                    "Status: OFFLINE"
-                ),
-
-                html.P(
-                    "Chamados: 48"
-                ),
-
-                html.Hr(),
-
-                html.H5(
-                    "Osasco/SP"
-                ),
-
-                html.P(
-                    "Bairro: KM18"
-                ),
-
-                html.P(
-                    "Status: INSTÁVEL"
-                ),
-
-                html.P(
-                    "Chamados: 31"
-                ),
-
-                html.Hr(),
-
-                html.H5(
-                    "Curitiba/PR"
-                ),
-
-                html.P(
-                    "Bairro: Boqueirão"
-                ),
-
-                html.P(
-                    "Status: OFFLINE"
-                ),
-
-                html.P(
-                    "Chamados: 52"
-                ),
-
-            ]),
-
-            dbc.ModalFooter(
-
-                dbc.Button(
-
-                    "Fechar",
-
-                    id="fechar-modal",
-
-                    className="ms-auto",
-
-                    n_clicks=0
-
-                )
-
-            ),
-
-        ],
-
-        id="modal-regioes",
-
-        is_open=False),
-
-        # =========================
         # STATUS BAR
         # =========================
 
@@ -212,11 +205,7 @@ def layout():
             html.Div([
 
                 html.Span(
-                    className="online-dot"
-                ),
-
-                html.Span(
-                    " Sistema Operacional"
+                    "🟢 Sistema Operacional"
                 )
 
             ]),
@@ -226,62 +215,166 @@ def layout():
             )
 
         ],
-        className="status-bar"),
+
+        style={
+
+            "display": "flex",
+
+            "justifyContent": "space-between",
+
+            "marginBottom": "20px",
+
+            "color": "white"
+
+        }),
 
         # =========================
-        # TÍTULO
+        # TITLE
         # =========================
 
         html.H1(
 
-            "ISP Telecom Analytics",
+            "📊 Telecom Analytics",
 
-            className="title-main"
+            style={
+
+                "color": "white",
+
+                "marginBottom": "30px"
+
+            }
 
         ),
 
         # =========================
-        # FILTRO
+        # KPI CARDS
         # =========================
 
         dbc.Row([
 
+            # CLIENTES
+
             dbc.Col([
 
-                dcc.Dropdown(
+                dbc.Card([
 
-                    id="filtro_estado",
+                    dbc.CardBody([
 
-                    options=[
+                        html.H6(
+                            "Clientes"
+                        ),
 
-                        {
-                            "label": i,
-                            "value": i
-                        }
+                        html.H2(
 
-                        for i in sorted(
-                            df["estado"].unique()
+                            "3000",
+
+                            id="clientes-kpi",
+
+                            className="text-info"
+
                         )
 
-                    ],
+                    ])
 
-                    placeholder="Selecionar Estado",
+                ],
 
-                    clearable=True
+                className="shadow-lg")
 
-                )
+            ], md=3),
 
-            ], md=4),
+            # RECEITA
 
-        ], className="mb-4"),
+            dbc.Col([
 
-        # =========================
-        # KPIS
-        # =========================
+                dbc.Card([
 
-        html.Div(
-            id="kpis-dashboard"
-        ),
+                    dbc.CardBody([
+
+                        html.H6(
+                            "Receita"
+                        ),
+
+                        html.H2(
+
+                            "R$ 450000",
+
+                            id="receita-kpi",
+
+                            className="text-success"
+
+                        )
+
+                    ])
+
+                ],
+
+                className="shadow-lg")
+
+            ], md=3),
+
+            # UPTIME
+
+            dbc.Col([
+
+                dbc.Card([
+
+                    dbc.CardBody([
+
+                        html.H6(
+                            "Uptime"
+                        ),
+
+                        html.H2(
+
+                            "99.98%",
+
+                            id="uptime-kpi",
+
+                            className="text-warning"
+
+                        )
+
+                    ])
+
+                ],
+
+                className="shadow-lg")
+
+            ], md=3),
+
+            # CHAMADOS
+
+            dbc.Col([
+
+                dbc.Card([
+
+                    dbc.CardBody([
+
+                        html.H6(
+                            "Chamados"
+                        ),
+
+                        html.H2(
+
+                            "143",
+
+                            id="chamados-kpi",
+
+                            className="text-danger"
+
+                        )
+
+                    ])
+
+                ],
+
+                className="shadow-lg")
+
+            ], md=3),
+
+        ],
+
+        className="g-4"),
 
         html.Br(),
 
@@ -290,13 +383,21 @@ def layout():
         # =========================
 
         html.Div(
-            id="alerta-rede"
+
+            id="alerta-rede",
+
+            style={
+
+                "animation": "pulse 2s infinite"
+
+            }
+
         ),
 
         html.Br(),
 
         # =========================
-        # GRÁFICO
+        # GRÁFICOS
         # =========================
 
         dbc.Card([
@@ -304,217 +405,144 @@ def layout():
             dbc.CardBody([
 
                 dcc.Graph(
-                    id="grafico-estados"
+
+                    id="grafico-realtime",
+
+                    figure=fig
+
+                ),
+
+                html.Br(),
+
+                dcc.Graph(
+
+                    id="grafico-linha",
+
+                    figure=fig_line
+
                 )
 
             ])
 
         ],
-        className="card-style"),
+
+        className="shadow-lg"),
 
         html.Br(),
 
         # =========================
-        # ACCORDION
+        # REDE
         # =========================
 
-        dbc.Accordion([
+        dbc.Row([
 
-            # =========================
-            # CLIENTES
-            # =========================
+            dbc.Col([
 
-            dbc.AccordionItem([
+                dbc.Card([
 
-                html.H5(
-                    "Clientes Ativos"
-                ),
+                    dbc.CardBody([
 
-                html.P(
-                    "12.482 clientes ativos."
-                ),
+                        html.H4(
+                            "📡 Rede Telecom"
+                        ),
 
-                html.Hr(),
+                        html.P(
+                            "18 falhas nas últimas 24h."
+                        ),
 
-                html.H5(
-                    "Motivos Cancelamento"
-                ),
+                        html.P(
+                            "Latência média: 12ms"
+                        ),
 
-                html.Ul([
+                        html.P(
+                            "5 regiões críticas."
+                        )
 
-                    html.Li(
-                        "Concorrência"
-                    ),
+                    ])
 
-                    html.Li(
-                        "Problemas conexão"
-                    ),
+                ],
 
-                    html.Li(
-                        "Mudança cidade"
-                    ),
+                className="shadow-lg")
 
-                    html.Li(
-                        "Valor alto"
-                    ),
+            ], md=6),
 
-                ])
+            dbc.Col([
 
-            ],
-            title="👥 Clientes"),
+                dbc.Card([
 
-            # =========================
-            # REDE
-            # =========================
+                    dbc.CardBody([
 
-            dbc.AccordionItem([
+                        html.H4(
+                            "🌎 Infraestrutura"
+                        ),
 
-                html.H5(
-                    "Rede Telecom"
-                ),
+                        html.P(
+                            "42 torres monitoradas."
+                        ),
 
-                html.P(
-                    "18 falhas nas últimas 24h."
-                ),
+                        html.P(
+                            "97% SLA."
+                        ),
 
-                html.P(
-                    "Latência média: 12ms"
-                ),
+                        html.P(
+                            "2 regiões instáveis."
+                        )
 
-                html.Button(
+                    ])
 
-                    "5 regiões críticas",
+                ],
 
-                    id="btn-regioes",
+                className="shadow-lg")
 
-                    className="btn btn-danger"
+            ], md=6)
 
-                ),
+        ])
 
-            ],
-            title="📡 Rede"),
+    ],
 
-            # =========================
-            # FINANCEIRO
-            # =========================
+    style={
 
-            dbc.AccordionItem([
+        "backgroundColor": "#0f172a",
 
-                html.H5(
-                    "Financeiro"
-                ),
+        "minHeight": "100vh",
 
-                html.P(
-                    "Receita mensal: R$ 182K"
-                ),
+        "padding": "20px"
 
-                html.P(
-                    "Gastos operacionais: R$ 62K"
-                ),
-
-                html.P(
-                    "Lucro estimado: R$ 120K"
-                )
-
-            ],
-            title="💰 Financeiro"),
-
-            # =========================
-            # FROTA
-            # =========================
-
-            dbc.AccordionItem([
-
-                html.H5(
-                    "Frota"
-                ),
-
-                html.P(
-                    "42 veículos ativos."
-                ),
-
-                html.P(
-                    "18.420 KM rodados."
-                ),
-
-                html.P(
-                    "9 manutenções pendentes."
-                )
-
-            ],
-            title="🚗 Frota"),
-
-        ],
-        always_open=True,
-        start_collapsed=True)
-
-    ])
+    })
 
 # =========================
-# CALLBACK DASHBOARD
+# CALLBACK REALTIME
 # =========================
 
 @callback(
 
-    Output(
-        "kpis-dashboard",
-        "children"
-    ),
+    Output("clientes-kpi", "children"),
+    Output("receita-kpi", "children"),
+    Output("uptime-kpi", "children"),
+    Output("chamados-kpi", "children"),
+    Output("grafico-realtime", "figure"),
+    Output("grafico-linha", "figure"),
+    Output("alerta-rede", "children"),
+    Output("toast-alerta", "children"),
 
-    Output(
-        "grafico-estados",
-        "figure"
-    ),
-
-    Output(
-        "alerta-rede",
-        "children"
-    ),
-
-    Output(
-        "toast-alerta",
-        "children"
-    ),
-
-    Input(
-        "filtro_estado",
-        "value"
-    ),
-
-    Input(
-        "interval-update",
-        "n_intervals"
-    )
+    Input("intervalo-realtime", "n_intervals")
 
 )
 
-def atualizar_dashboard(
-    estado,
-    n
-):
-
-    df = pd.read_csv(
-        "data/clientes.csv"
-    )
-
-    # =========================
-    # FILTRO
-    # =========================
-
-    if estado:
-
-        df = df[
-            df["estado"] == estado
-        ]
+def atualizar_dashboard(n):
 
     # =========================
     # KPIS
     # =========================
 
-    total_clientes = len(df)
+    clientes = random.randint(
+        2800,
+        3200
+    )
 
-    receita = int(
-        df["mensalidade"].sum()
+    receita = random.randint(
+        400000,
+        500000
     )
 
     uptime = round(
@@ -525,47 +553,71 @@ def atualizar_dashboard(
         ),
 
         2
+
     )
 
     chamados = random.randint(
-        50,
-        200
-    )
-
-    clientes_online = random.randint(
-        10000,
-        13000
-    )
-
-    latencia = random.randint(
-        8,
-        18
+        80,
+        180
     )
 
     # =========================
-    # GRÁFICO
+    # STATUS
     # =========================
 
-    cidades = (
+    if chamados > 150:
 
-        df["cidade"]
+        status_color = "danger"
 
-        .value_counts()
+        status_text = "CRÍTICO"
 
-        .head(10)
+    elif chamados > 110:
 
-        .reset_index()
+        status_color = "warning"
 
-    )
+        status_text = "ATENÇÃO"
 
-    cidades.columns = [
-        "cidade",
-        "clientes"
+    else:
+
+        status_color = "success"
+
+        status_text = "ESTÁVEL"
+
+    # =========================
+    # BAR CHART REALTIME
+    # =========================
+
+    cidades = [
+
+        "Campinas",
+        "São Paulo",
+        "Osasco",
+        "Curitiba",
+        "Fortaleza",
+        "Jundiaí",
+        "Sumaré",
+        "Sorocaba"
+
     ]
+
+    valores = [
+
+        random.randint(50, 300)
+
+        for _ in cidades
+
+    ]
+
+    df = pd.DataFrame({
+
+        "cidade": cidades,
+        "clientes": valores
+
+    })
 
     fig = px.bar(
 
-        cidades,
+        df,
 
         x="cidade",
 
@@ -576,6 +628,7 @@ def atualizar_dashboard(
         color="clientes",
 
         text_auto=True
+
     )
 
     fig.update_layout(
@@ -586,214 +639,126 @@ def atualizar_dashboard(
 
         font_color="white",
 
-        title="Top 10 Cidades",
+        title="Clientes Online por Cidade",
 
         title_x=0.5
+
+    )
+
+    # =========================
+    # LINE CHART REALTIME
+    # =========================
+
+    horas = [
+
+        "08h",
+        "09h",
+        "10h",
+        "11h",
+        "12h",
+        "13h",
+        "14h",
+        "15h"
+
+    ]
+
+    trafego = [
+
+        random.randint(40, 100)
+
+        for _ in horas
+
+    ]
+
+    df_line = pd.DataFrame({
+
+        "hora": horas,
+        "trafego": trafego
+
+    })
+
+    fig_line = px.line(
+
+        df_line,
+
+        x="hora",
+
+        y="trafego",
+
+        template="plotly_dark",
+
+        markers=True
+
+    )
+
+    fig_line.update_layout(
+
+        paper_bgcolor="#0f172a",
+
+        plot_bgcolor="#0f172a",
+
+        font_color="white",
+
+        title="📈 Tráfego de Rede em Tempo Real",
+
+        title_x=0.5
+
     )
 
     # =========================
     # ALERTAS
     # =========================
 
-    cidades_alerta = [
+    alertas = [
 
-        "Campinas/SP",
-        "Osasco/SP",
-        "Curitiba/PR",
-        "Fortaleza/CE",
-        "Belo Horizonte/MG"
+        "🚨 Fibra rompida em Campinas/SP",
+        "⚠️ Alta latência em Osasco/SP",
+        "🔴 Região crítica em Curitiba/PR",
+        "🚨 ONU offline em Fortaleza/CE",
+        "⚠️ Instabilidade em São Paulo/SP"
 
     ]
 
     alerta = random.choice(
-        cidades_alerta
+        alertas
     )
 
     alerta_box = dbc.Alert(
 
-        f"🚨 Falha detectada em {alerta}",
+        [
 
-        color="danger",
+            html.H4(
+                f"STATUS: {status_text}"
+            ),
 
-        className="shadow-sm"
+            html.Hr(),
+
+            html.P(alerta)
+
+        ],
+
+        color=status_color,
+
+        className="shadow-lg"
 
     )
-
-    toast_msg = f"""
-    Falha detectada em {alerta}
-    """
-
-    # =========================
-    # CARDS
-    # =========================
-
-    cards = dbc.Row([
-
-        dbc.Col([
-
-            dbc.Card([
-
-                dbc.CardBody([
-
-                    html.H6("Clientes"),
-
-                    html.H2(
-                        total_clientes,
-                        className="text-info"
-                    )
-
-                ])
-
-            ],
-            className="card-style")
-
-        ], md=4),
-
-        dbc.Col([
-
-            dbc.Card([
-
-                dbc.CardBody([
-
-                    html.H6("Receita"),
-
-                    html.H2(
-                        f"R$ {receita}",
-                        className="text-success"
-                    )
-
-                ])
-
-            ],
-            className="card-style")
-
-        ], md=4),
-
-        dbc.Col([
-
-            dbc.Card([
-
-                dbc.CardBody([
-
-                    html.H6("Uptime"),
-
-                    html.H2(
-                        f"{uptime}%",
-                        className="text-warning"
-                    )
-
-                ])
-
-            ],
-            className="card-style")
-
-        ], md=4),
-
-        dbc.Col([
-
-            dbc.Card([
-
-                dbc.CardBody([
-
-                    html.H6("Chamados"),
-
-                    html.H2(
-                        chamados,
-                        className="text-danger"
-                    )
-
-                ])
-
-            ],
-            className="card-style")
-
-        ], md=4),
-
-        dbc.Col([
-
-            dbc.Card([
-
-                dbc.CardBody([
-
-                    html.H6("Clientes Online"),
-
-                    html.H2(
-                        clientes_online,
-                        className="text-success"
-                    )
-
-                ])
-
-            ],
-            className="card-style")
-
-        ], md=4),
-
-        dbc.Col([
-
-            dbc.Card([
-
-                dbc.CardBody([
-
-                    html.H6("Latência"),
-
-                    html.H2(
-                        f"{latencia} ms",
-                        className="text-warning"
-                    )
-
-                ])
-
-            ],
-            className="card-style")
-
-        ], md=4),
-
-    ], className="g-4")
 
     return (
-        cards,
+
+        f"{clientes}",
+
+        f"R$ {receita}",
+
+        f"{uptime}%",
+
+        f"{chamados}",
+
         fig,
+
+        fig_line,
+
         alerta_box,
-        toast_msg
+
+        alerta
+
     )
-
-# =========================
-# CALLBACK MODAL
-# =========================
-
-@callback(
-
-    Output(
-        "modal-regioes",
-        "is_open"
-    ),
-
-    Input(
-        "btn-regioes",
-        "n_clicks"
-    ),
-
-    Input(
-        "fechar-modal",
-        "n_clicks"
-    ),
-
-    State(
-        "modal-regioes",
-        "is_open"
-    )
-
-)
-
-def toggle_modal(
-    abrir,
-    fechar,
-    aberto
-):
-
-    if abrir or fechar:
-
-        return not aberto
-
-    return aberto
