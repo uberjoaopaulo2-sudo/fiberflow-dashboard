@@ -1,206 +1,58 @@
-from dash import html, dcc
+from dash import html
+from dash import dcc
+from dash import Input
+from dash import Output
+from dash import callback
+
 import dash_bootstrap_components as dbc
 
 import pandas as pd
-import plotly.express as px
+
+import random
 
 # =========================
-# FUNÇÃO
+# LAYOUT
 # =========================
 
-def layout(estado=None):
-
-    # =========================
-    # DADOS
-    # =========================
-
-    df = pd.read_csv("data/clientes.csv")
-
-    # FILTRO
-
-    if estado:
-
-        df = df[
-            df["estado"] == estado
-        ]
-
-    # =========================
-    # KPIS
-    # =========================
-
-    total_clientes = len(df)
-
-    ticket_medio = round(
-        df["mensalidade"].mean(),
-        0
-    )
-
-    cidades = df["cidade"].nunique()
-
-    planos = df["plano"].nunique()
-
-    # =========================
-    # GRÁFICO CIDADES
-    # =========================
-
-    top_cidades = (
-        df["cidade"]
-        .value_counts()
-        .head(10)
-        .reset_index()
-    )
-
-    top_cidades.columns = [
-        "cidade",
-        "clientes"
-    ]
-
-    grafico_cidades = px.bar(
-
-        top_cidades,
-
-        x="cidade",
-        y="clientes",
-
-        color="clientes",
-
-        text_auto=True,
-
-        template="plotly_dark"
-    )
-
-    grafico_cidades.update_layout(
-
-        paper_bgcolor="#0f172a",
-        plot_bgcolor="#0f172a",
-
-        font_color="white",
-
-        title="Top 10 Cidades",
-
-        title_x=0.5
-    )
-
-    # =========================
-    # GRÁFICO PLANOS
-    # =========================
-
-    grafico_planos = px.pie(
-
-        df,
-
-        names="plano",
-
-        hole=0.5,
-
-        template="plotly_dark"
-    )
-
-    grafico_planos.update_layout(
-
-        paper_bgcolor="#0f172a",
-
-        font_color="white",
-
-        title="Distribuição de Planos",
-
-        title_x=0.5
-    )
-
-    # =========================
-    # LAYOUT
-    # =========================
+def layout():
 
     return html.Div([
 
-        html.H1(
-            "Clientes",
-            className="title-main"
+        # =========================
+        # INTERVAL
+        # =========================
+
+        dcc.Interval(
+
+            id="interval-clientes",
+
+            interval=3000,
+
+            n_intervals=0
+
         ),
 
-        dbc.Row([
+        # =========================
+        # TITLE
+        # =========================
 
-            dbc.Col([
+        html.H1(
 
-                dbc.Card([
+            "👥 Clientes FiberFlow",
 
-                    dbc.CardBody([
+            style={
 
-                        html.H5("Clientes"),
+                "color": "white",
 
-                        html.H2(
-                            total_clientes,
-                            className="text-info"
-                        )
+                "marginBottom": "30px"
 
-                    ])
+            }
 
-                ],
-                className="card-style")
+        ),
 
-            ], md=3),
-
-            dbc.Col([
-
-                dbc.Card([
-
-                    dbc.CardBody([
-
-                        html.H5("Ticket Médio"),
-
-                        html.H2(
-                            f"R$ {ticket_medio}",
-                            className="text-success"
-                        )
-
-                    ])
-
-                ],
-                className="card-style")
-
-            ], md=3),
-
-            dbc.Col([
-
-                dbc.Card([
-
-                    dbc.CardBody([
-
-                        html.H5("Cidades"),
-
-                        html.H2(
-                            cidades,
-                            className="text-warning"
-                        )
-
-                    ])
-
-                ],
-                className="card-style")
-
-            ], md=3),
-
-            dbc.Col([
-
-                dbc.Card([
-
-                    dbc.CardBody([
-
-                        html.H5("Planos"),
-
-                        html.H2(
-                            planos,
-                            className="text-danger"
-                        )
-
-                    ])
-
-                ],
-                className="card-style")
-
-            ], md=3),
-
-        ], className="mb-4"),
+        # =========================
+        # KPIS
+        # =========================
 
         dbc.Row([
 
@@ -210,16 +62,25 @@ def layout(estado=None):
 
                     dbc.CardBody([
 
-                        dcc.Graph(
-                            figure=grafico_cidades
+                        html.H4("🟢 Online"),
+
+                        html.H2(
+
+                            id="clientes-online"
+
                         )
 
                     ])
 
                 ],
-                className="card-style")
 
-            ], md=8),
+                color="success",
+
+                inverse=True)
+
+            ],
+
+            md=4),
 
             dbc.Col([
 
@@ -227,17 +88,224 @@ def layout(estado=None):
 
                     dbc.CardBody([
 
-                        dcc.Graph(
-                            figure=grafico_planos
+                        html.H4("🔴 Offline"),
+
+                        html.H2(
+
+                            id="clientes-offline"
+
                         )
 
                     ])
 
                 ],
-                className="card-style")
 
-            ], md=4),
+                color="danger",
+
+                inverse=True)
+
+            ],
+
+            md=4),
+
+            dbc.Col([
+
+                dbc.Card([
+
+                    dbc.CardBody([
+
+                        html.H4("📡 Consumo Médio"),
+
+                        html.H2(
+
+                            id="consumo-medio"
+
+                        )
+
+                    ])
+
+                ],
+
+                color="primary",
+
+                inverse=True)
+
+            ],
+
+            md=4)
+
+        ],
+
+        className="mb-4"),
+
+        # =========================
+        # TABELA
+        # =========================
+
+        html.Div(
+
+            id="tabela-clientes"
+
+        )
+
+    ],
+
+    style={
+
+        "backgroundColor": "#0f172a",
+
+        "minHeight": "100vh",
+
+        "padding": "20px"
+
+    })
+
+# =========================
+# CALLBACK
+# =========================
+
+@callback(
+
+    Output("tabela-clientes", "children"),
+    Output("clientes-online", "children"),
+    Output("clientes-offline", "children"),
+    Output("consumo-medio", "children"),
+
+    Input("interval-clientes", "n_intervals")
+
+)
+
+def atualizar_tabela(n):
+
+    nomes = [
+
+        "Carlos",
+        "Bruno",
+        "Amanda",
+        "Fernanda",
+        "João",
+        "Lucas",
+        "Mariana",
+        "Patricia"
+
+    ]
+
+    cidades = [
+
+        "Campinas/SP",
+        "São Paulo/SP",
+        "Osasco/SP",
+        "Curitiba/PR",
+        "Fortaleza/CE"
+
+    ]
+
+    planos = [
+
+        "300MB",
+        "500MB",
+        "700MB",
+        "1GB"
+
+    ]
+
+    dados = []
+
+    online = 0
+    offline = 0
+
+    consumos = []
+
+    # =========================
+    # LOOP
+    # =========================
+
+    for i in range(15):
+
+        status = random.choice([
+
+            "🟢 Online",
+            "🔴 Offline"
 
         ])
 
-    ])
+        consumo = random.randint(
+
+            50,
+            900
+
+        )
+
+        consumos.append(consumo)
+
+        if "Online" in status:
+
+            online += 1
+
+        else:
+
+            offline += 1
+
+        dados.append({
+
+            "Cliente": random.choice(nomes),
+
+            "Cidade": random.choice(cidades),
+
+            "Plano": random.choice(planos),
+
+            "Consumo": f"{consumo} GB",
+
+            "Status": status
+
+        })
+
+    # =========================
+    # DATAFRAME
+    # =========================
+
+    df = pd.DataFrame(dados)
+
+    tabela = dbc.Table.from_dataframe(
+
+        df,
+
+        striped=True,
+
+        bordered=True,
+
+        hover=True,
+
+        dark=True,
+
+        responsive=True
+
+    )
+
+    consumo_medio = int(
+
+        sum(consumos) / len(consumos)
+
+    )
+
+    return (
+
+        dbc.Card([
+
+            dbc.CardBody([
+
+                tabela
+
+            ])
+
+        ],
+
+        className="shadow-lg"),
+
+        online,
+
+        offline,
+
+        f"{consumo_medio} GB"
+
+    )

@@ -3,19 +3,17 @@ from dash import html
 from dash import dcc
 from dash import Input
 from dash import Output
-from dash import callback
 
 import dash_bootstrap_components as dbc
 
 # =========================
-# IMPORTS
+# IMPORT PAGES
 # =========================
 
 from pages import dashboard
 from pages import clientes
 from pages import vendas
 from pages import mapa
-from pages import login
 
 # =========================
 # APP
@@ -26,7 +24,9 @@ app = Dash(
     __name__,
 
     external_stylesheets=[
+
         dbc.themes.CYBORG
+
     ],
 
     suppress_callback_exceptions=True
@@ -41,44 +41,259 @@ server = app.server
 
 sidebar = html.Div([
 
-    html.H2(
+    # =========================
+    # LOGO
+    # =========================
+
+    html.H1(
 
         "FiberFlow",
 
-        className="text-info text-center mb-4"
+        style={
+
+            "textAlign": "center",
+            "color": "#38bdf8",
+            "marginBottom": "5px"
+
+        }
 
     ),
+
+    html.P(
+
+        "NOC Telecom Center",
+
+        style={
+
+            "textAlign": "center",
+            "color": "#94a3b8",
+            "marginBottom": "30px"
+
+        }
+
+    ),
+
+    # =========================
+    # PERFIL
+    # =========================
+
+    dbc.Card([
+
+        dbc.CardBody([
+
+            html.H4(
+
+                "👨‍💻 Bruno",
+
+                className="text-info"
+
+            ),
+
+            html.P(
+
+                "Administrador"
+
+            ),
+
+            dbc.Badge(
+
+                "ONLINE",
+
+                color="success"
+
+            )
+
+        ])
+
+    ],
+
+    className="mb-4"),
+
+    # =========================
+    # MENU
+    # =========================
 
     dbc.Nav([
 
         dbc.NavLink(
+
             "📊 Dashboard",
-            href="/dashboard",
+
+            href="/",
+
             active="exact"
+
         ),
 
         dbc.NavLink(
+
             "👥 Clientes",
+
             href="/clientes",
+
             active="exact"
+
         ),
 
         dbc.NavLink(
+
             "💰 Vendas",
+
             href="/vendas",
+
             active="exact"
+
         ),
 
         dbc.NavLink(
-            "🌎 Mapa",
+
+            "🌎 Mapa Telecom",
+
             href="/mapa",
+
             active="exact"
+
         ),
+
+        dbc.NavLink(
+
+            "🚨 Alertas",
+
+            href="#"
+
+        ),
+
+        dbc.NavLink(
+
+            "📡 Rede",
+
+            href="#"
+
+        ),
+
+        dbc.NavLink(
+
+            "🛰️ ONU Offline",
+
+            href="#"
+
+        ),
+
+        dbc.NavLink(
+
+            "📞 Chamados",
+
+            href="#"
+
+        ),
+
+        dbc.NavLink(
+
+            "⚙️ Configurações",
+
+            href="#"
+
+        )
 
     ],
 
     vertical=True,
-    pills=True)
+
+    pills=True),
+
+    html.Hr(),
+
+    # =========================
+    # STATUS REDE
+    # =========================
+
+    html.H5(
+
+        "📡 Status Rede",
+
+        className="text-info"
+
+    ),
+
+    dbc.Alert(
+
+        "🟢 Servidor ONLINE",
+
+        color="success",
+
+        className="mb-2"
+
+    ),
+
+    dbc.Alert(
+
+        "🟡 Latência Alta SP",
+
+        color="warning",
+
+        className="mb-2"
+
+    ),
+
+    dbc.Alert(
+
+        "🔴 ONU Offline Osasco",
+
+        color="danger",
+
+        className="mb-2"
+
+    ),
+
+    html.Hr(),
+
+    # =========================
+    # INFORMAÇÕES
+    # =========================
+
+    html.H5(
+
+        "⚡ Sistema",
+
+        className="text-info"
+
+    ),
+
+    html.P(
+
+        "Uptime: 99.98%",
+
+        style={
+
+            "color": "white"
+
+        }
+
+    ),
+
+    html.P(
+
+        "Ping Médio: 12ms",
+
+        style={
+
+            "color": "white"
+
+        }
+
+    ),
+
+    html.P(
+
+        "Técnicos Online: 14",
+
+        style={
+
+            "color": "white"
+
+        }
+
+    )
 
 ],
 
@@ -92,11 +307,15 @@ style={
 
     "bottom": 0,
 
-    "width": "240px",
+    "width": "320px",
 
     "padding": "20px",
 
-    "backgroundColor": "#111827"
+    "overflowY": "auto",
+
+    "background": "#111827",
+
+    "boxShadow": "0 0 25px rgba(0,0,0,0.5)"
 
 })
 
@@ -107,17 +326,31 @@ style={
 app.layout = html.Div([
 
     dcc.Location(
-    id="url",
-    refresh=False,
-    pathname="/login"
-),
 
-    html.Div(
-        id="sidebar-container"
+        id="url",
+
+        refresh=False
+
     ),
 
     html.Div(
-        id="conteudo"
+
+        sidebar
+
+    ),
+
+    html.Div(
+
+        id="conteudo",
+
+        style={
+
+            "marginLeft": "340px",
+
+            "padding": "20px"
+
+        }
+
     )
 
 ])
@@ -126,142 +359,31 @@ app.layout = html.Div([
 # ROUTER
 # =========================
 
-@callback(
+@app.callback(
 
-    Output(
-        "conteudo",
-        "children"
-    ),
+    Output("conteudo", "children"),
 
-    Output(
-        "sidebar-container",
-        "children"
-    ),
-
-    Input(
-        "url",
-        "pathname"
-    )
+    Input("url", "pathname")
 
 )
 
 def render_page(pathname):
 
-    # LOGIN
+    if pathname == "/clientes":
 
-    if pathname == "/" or pathname == "/login":
-
-        return (
-
-            login.layout(),
-
-            None
-
-        )
-
-    # DASHBOARD
-
-    elif pathname == "/dashboard":
-
-        return (
-
-            html.Div(
-
-                dashboard.layout(),
-
-                style={
-
-                    "marginLeft": "260px",
-                    "padding": "20px"
-
-                }
-
-            ),
-
-            sidebar
-
-        )
-
-    # CLIENTES
-
-    elif pathname == "/clientes":
-
-        return (
-
-            html.Div(
-
-                clientes.layout(),
-
-                style={
-
-                    "marginLeft": "260px",
-                    "padding": "20px"
-
-                }
-
-            ),
-
-            sidebar
-
-        )
-
-    # VENDAS
+        return clientes.layout()
 
     elif pathname == "/vendas":
 
-        return (
-
-            html.Div(
-
-                vendas.layout(),
-
-                style={
-
-                    "marginLeft": "260px",
-                    "padding": "20px"
-
-                }
-
-            ),
-
-            sidebar
-
-        )
-
-    # MAPA
+        return vendas.layout()
 
     elif pathname == "/mapa":
 
-        return (
-
-            html.Div(
-
-                mapa.layout(),
-
-                style={
-
-                    "marginLeft": "260px",
-                    "padding": "20px"
-
-                }
-
-            ),
-
-            sidebar
-
-        )
-
-    # DEFAULT
+        return mapa.layout()
 
     else:
 
-        return (
-
-            login.layout(),
-
-            None
-
-        )
+        return dashboard.layout()
 
 # =========================
 # RUN
@@ -270,5 +392,7 @@ def render_page(pathname):
 if __name__ == "__main__":
 
     app.run(
+
         debug=True
+
     )

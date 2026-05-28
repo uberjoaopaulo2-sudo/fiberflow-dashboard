@@ -6,12 +6,11 @@ from dash import callback
 
 import dash_bootstrap_components as dbc
 
-import pandas as pd
 import plotly.express as px
 
-import random
+import pandas as pd
 
-from datetime import datetime
+import random
 
 # =========================
 # LAYOUT
@@ -19,71 +18,8 @@ from datetime import datetime
 
 def layout():
 
-    df = pd.read_csv(
-        "data/clientes.csv"
-    )
-
-    horario = datetime.now().strftime(
-        "%H:%M:%S"
-    )
-
     # =========================
-    # DADOS INICIAIS
-    # =========================
-
-    cidades = (
-
-        df["cidade"]
-
-        .value_counts()
-
-        .head(10)
-
-        .reset_index()
-
-    )
-
-    cidades.columns = [
-        "cidade",
-        "clientes"
-    ]
-
-    # =========================
-    # BAR CHART
-    # =========================
-
-    fig = px.bar(
-
-        cidades,
-
-        x="cidade",
-
-        y="clientes",
-
-        template="plotly_dark",
-
-        color="clientes",
-
-        text_auto=True
-
-    )
-
-    fig.update_layout(
-
-        paper_bgcolor="#0f172a",
-
-        plot_bgcolor="#0f172a",
-
-        font_color="white",
-
-        title="Clientes Online por Cidade",
-
-        title_x=0.5
-
-    )
-
-    # =========================
-    # LINE CHART
+    # DADOS
     # =========================
 
     horas = [
@@ -107,16 +43,16 @@ def layout():
 
     ]
 
-    df_line = pd.DataFrame({
+    df = pd.DataFrame({
 
         "hora": horas,
         "trafego": trafego
 
     })
 
-    fig_line = px.line(
+    fig = px.line(
 
-        df_line,
+        df,
 
         x="hora",
 
@@ -128,7 +64,7 @@ def layout():
 
     )
 
-    fig_line.update_layout(
+    fig.update_layout(
 
         paper_bgcolor="#0f172a",
 
@@ -136,25 +72,21 @@ def layout():
 
         font_color="white",
 
-        title="📈 Tráfego de Rede em Tempo Real",
+        title="📈 Tráfego de Rede",
 
         title_x=0.5
 
     )
 
-    # =========================
-    # LAYOUT
-    # =========================
-
     return html.Div([
 
         # =========================
-        # INTERVAL REALTIME
+        # INTERVAL
         # =========================
 
         dcc.Interval(
 
-            id="intervalo-realtime",
+            id="interval-dashboard",
 
             interval=3000,
 
@@ -163,78 +95,12 @@ def layout():
         ),
 
         # =========================
-        # TOAST
-        # =========================
-
-        dbc.Toast(
-
-            id="toast-alerta",
-
-            header="🚨 Alerta Telecom",
-
-            is_open=True,
-
-            dismissable=True,
-
-            duration=4000,
-
-            icon="danger",
-
-            style={
-
-                "position": "fixed",
-
-                "top": 20,
-
-                "right": 20,
-
-                "width": 350,
-
-                "zIndex": 9999
-
-            }
-
-        ),
-
-        # =========================
-        # STATUS BAR
-        # =========================
-
-        html.Div([
-
-            html.Div([
-
-                html.Span(
-                    "🟢 Sistema Operacional"
-                )
-
-            ]),
-
-            html.Div(
-                f"Última atualização: {horario}"
-            )
-
-        ],
-
-        style={
-
-            "display": "flex",
-
-            "justifyContent": "space-between",
-
-            "marginBottom": "20px",
-
-            "color": "white"
-
-        }),
-
-        # =========================
         # TITLE
         # =========================
 
         html.H1(
 
-            "📊 Telecom Analytics",
+            "📡 FiberFlow Dashboard",
 
             style={
 
@@ -247,12 +113,32 @@ def layout():
         ),
 
         # =========================
-        # KPI CARDS
+        # KPI
         # =========================
 
         dbc.Row([
 
-            # CLIENTES
+            dbc.Col([
+
+                dbc.Card([
+
+                    dbc.CardBody([
+
+                        html.H4("👥 Clientes"),
+
+                        html.H2("1.248")
+
+                    ])
+
+                ],
+
+                color="primary",
+
+                inverse=True)
+
+            ],
+
+            md=3),
 
             dbc.Col([
 
@@ -260,29 +146,21 @@ def layout():
 
                     dbc.CardBody([
 
-                        html.H6(
-                            "Clientes"
-                        ),
+                        html.H4("🚨 Chamados"),
 
-                        html.H2(
-
-                            "3000",
-
-                            id="clientes-kpi",
-
-                            className="text-info"
-
-                        )
+                        html.H2("18")
 
                     ])
 
                 ],
 
-                className="shadow-lg")
+                color="danger",
 
-            ], md=3),
+                inverse=True)
 
-            # RECEITA
+            ],
+
+            md=3),
 
             dbc.Col([
 
@@ -290,29 +168,21 @@ def layout():
 
                     dbc.CardBody([
 
-                        html.H6(
-                            "Receita"
-                        ),
+                        html.H4("📡 Uptime"),
 
-                        html.H2(
-
-                            "R$ 450000",
-
-                            id="receita-kpi",
-
-                            className="text-success"
-
-                        )
+                        html.H2("99.9%")
 
                     ])
 
                 ],
 
-                className="shadow-lg")
+                color="success",
 
-            ], md=3),
+                inverse=True)
 
-            # UPTIME
+            ],
+
+            md=3),
 
             dbc.Col([
 
@@ -320,151 +190,59 @@ def layout():
 
                     dbc.CardBody([
 
-                        html.H6(
-                            "Uptime"
-                        ),
+                        html.H4("⚡ Ping"),
 
-                        html.H2(
-
-                            "99.98%",
-
-                            id="uptime-kpi",
-
-                            className="text-warning"
-
-                        )
+                        html.H2("12ms")
 
                     ])
 
                 ],
 
-                className="shadow-lg")
+                color="warning",
 
-            ], md=3),
+                inverse=True)
 
-            # CHAMADOS
+            ],
 
-            dbc.Col([
-
-                dbc.Card([
-
-                    dbc.CardBody([
-
-                        html.H6(
-                            "Chamados"
-                        ),
-
-                        html.H2(
-
-                            "143",
-
-                            id="chamados-kpi",
-
-                            className="text-danger"
-
-                        )
-
-                    ])
-
-                ],
-
-                className="shadow-lg")
-
-            ], md=3),
+            md=3)
 
         ],
 
-        className="g-4"),
-
-        html.Br(),
+        className="mb-4"),
 
         # =========================
         # ALERTA
         # =========================
 
-        html.Div(
+        dbc.Alert(
 
-            id="alerta-rede",
+            "🚨 ALERTA: Oscilação detectada em Osasco/SP",
+
+            color="danger",
 
             style={
 
-                "animation": "pulse 2s infinite"
+                "animation": "blinker 1s linear infinite",
 
-            }
+                "fontWeight": "bold",
+
+                "fontSize": "18px"
+
+            },
+
+            className="mb-4"
 
         ),
 
-        html.Br(),
-
         # =========================
-        # GRÁFICOS
-        # =========================
-
-        dbc.Card([
-
-            dbc.CardBody([
-
-                dcc.Graph(
-
-                    id="grafico-realtime",
-
-                    figure=fig
-
-                ),
-
-                html.Br(),
-
-                dcc.Graph(
-
-                    id="grafico-linha",
-
-                    figure=fig_line
-
-                )
-
-            ])
-
-        ],
-
-        className="shadow-lg"),
-
-        html.Br(),
-
-        # =========================
-        # REDE
+        # ROW CENTRAL
         # =========================
 
         dbc.Row([
 
-            dbc.Col([
-
-                dbc.Card([
-
-                    dbc.CardBody([
-
-                        html.H4(
-                            "📡 Rede Telecom"
-                        ),
-
-                        html.P(
-                            "18 falhas nas últimas 24h."
-                        ),
-
-                        html.P(
-                            "Latência média: 12ms"
-                        ),
-
-                        html.P(
-                            "5 regiões críticas."
-                        )
-
-                    ])
-
-                ],
-
-                className="shadow-lg")
-
-            ], md=6),
+            # =========================
+            # GRAFICO
+            # =========================
 
             dbc.Col([
 
@@ -472,29 +250,53 @@ def layout():
 
                     dbc.CardBody([
 
-                        html.H4(
-                            "🌎 Infraestrutura"
-                        ),
+                        dcc.Graph(
 
-                        html.P(
-                            "42 torres monitoradas."
-                        ),
+                            id="grafico-dashboard",
 
-                        html.P(
-                            "97% SLA."
-                        ),
+                            figure=fig
 
-                        html.P(
-                            "2 regiões instáveis."
                         )
 
                     ])
 
-                ],
+                ])
 
-                className="shadow-lg")
+            ],
 
-            ], md=6)
+            md=8),
+
+            # =========================
+            # LOGS
+            # =========================
+
+            dbc.Col([
+
+                dbc.Card([
+
+                    dbc.CardBody([
+
+                        html.H4(
+
+                            "🚨 Logs RealTime",
+
+                            className="mb-4"
+
+                        ),
+
+                        html.Div(
+
+                            id="logs-dashboard"
+
+                        )
+
+                    ])
+
+                ])
+
+            ],
+
+            md=4)
 
         ])
 
@@ -511,143 +313,19 @@ def layout():
     })
 
 # =========================
-# CALLBACK REALTIME
+# CALLBACK
 # =========================
 
 @callback(
 
-    Output("clientes-kpi", "children"),
-    Output("receita-kpi", "children"),
-    Output("uptime-kpi", "children"),
-    Output("chamados-kpi", "children"),
-    Output("grafico-realtime", "figure"),
-    Output("grafico-linha", "figure"),
-    Output("alerta-rede", "children"),
-    Output("toast-alerta", "children"),
+    Output("grafico-dashboard", "figure"),
+    Output("logs-dashboard", "children"),
 
-    Input("intervalo-realtime", "n_intervals")
+    Input("interval-dashboard", "n_intervals")
 
 )
 
 def atualizar_dashboard(n):
-
-    # =========================
-    # KPIS
-    # =========================
-
-    clientes = random.randint(
-        2800,
-        3200
-    )
-
-    receita = random.randint(
-        400000,
-        500000
-    )
-
-    uptime = round(
-
-        random.uniform(
-            99.10,
-            99.99
-        ),
-
-        2
-
-    )
-
-    chamados = random.randint(
-        80,
-        180
-    )
-
-    # =========================
-    # STATUS
-    # =========================
-
-    if chamados > 150:
-
-        status_color = "danger"
-
-        status_text = "CRÍTICO"
-
-    elif chamados > 110:
-
-        status_color = "warning"
-
-        status_text = "ATENÇÃO"
-
-    else:
-
-        status_color = "success"
-
-        status_text = "ESTÁVEL"
-
-    # =========================
-    # BAR CHART REALTIME
-    # =========================
-
-    cidades = [
-
-        "Campinas",
-        "São Paulo",
-        "Osasco",
-        "Curitiba",
-        "Fortaleza",
-        "Jundiaí",
-        "Sumaré",
-        "Sorocaba"
-
-    ]
-
-    valores = [
-
-        random.randint(50, 300)
-
-        for _ in cidades
-
-    ]
-
-    df = pd.DataFrame({
-
-        "cidade": cidades,
-        "clientes": valores
-
-    })
-
-    fig = px.bar(
-
-        df,
-
-        x="cidade",
-
-        y="clientes",
-
-        template="plotly_dark",
-
-        color="clientes",
-
-        text_auto=True
-
-    )
-
-    fig.update_layout(
-
-        paper_bgcolor="#0f172a",
-
-        plot_bgcolor="#0f172a",
-
-        font_color="white",
-
-        title="Clientes Online por Cidade",
-
-        title_x=0.5
-
-    )
-
-    # =========================
-    # LINE CHART REALTIME
-    # =========================
 
     horas = [
 
@@ -670,16 +348,16 @@ def atualizar_dashboard(n):
 
     ]
 
-    df_line = pd.DataFrame({
+    df = pd.DataFrame({
 
         "hora": horas,
         "trafego": trafego
 
     })
 
-    fig_line = px.line(
+    fig = px.line(
 
-        df_line,
+        df,
 
         x="hora",
 
@@ -691,7 +369,7 @@ def atualizar_dashboard(n):
 
     )
 
-    fig_line.update_layout(
+    fig.update_layout(
 
         paper_bgcolor="#0f172a",
 
@@ -699,66 +377,49 @@ def atualizar_dashboard(n):
 
         font_color="white",
 
-        title="📈 Tráfego de Rede em Tempo Real",
+        title="📈 Tráfego de Rede",
 
         title_x=0.5
 
     )
 
-    # =========================
-    # ALERTAS
-    # =========================
+    logs = [
 
-    alertas = [
-
-        "🚨 Fibra rompida em Campinas/SP",
-        "⚠️ Alta latência em Osasco/SP",
-        "🔴 Região crítica em Curitiba/PR",
-        "🚨 ONU offline em Fortaleza/CE",
-        "⚠️ Instabilidade em São Paulo/SP"
+        "🚨 ONU offline Campinas",
+        "📡 Latência alta São Paulo",
+        "🟢 Cliente reconectado",
+        "⚠️ Pico de tráfego Curitiba",
+        "🔧 Técnico enviado Osasco"
 
     ]
 
-    alerta = random.choice(
-        alertas
-    )
+    logs_ui = [
 
-    alerta_box = dbc.Alert(
+        dbc.Alert(
 
-        [
+            random.choice(logs),
 
-            html.H4(
-                f"STATUS: {status_text}"
-            ),
+            color=random.choice([
 
-            html.Hr(),
+                "danger",
+                "warning",
+                "success",
+                "primary"
 
-            html.P(alerta)
+            ]),
 
-        ],
+            className="mb-2"
 
-        color=status_color,
+        )
 
-        className="shadow-lg"
+        for _ in range(5)
 
-    )
+    ]
 
     return (
 
-        f"{clientes}",
-
-        f"R$ {receita}",
-
-        f"{uptime}%",
-
-        f"{chamados}",
-
         fig,
 
-        fig_line,
-
-        alerta_box,
-
-        alerta
+        logs_ui
 
     )
