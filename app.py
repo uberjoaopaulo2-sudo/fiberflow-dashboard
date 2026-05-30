@@ -3,7 +3,6 @@ from dash import html
 from dash import dcc
 from dash import Input
 from dash import Output
-
 import dash_bootstrap_components as dbc
 
 # =========================
@@ -14,7 +13,11 @@ from pages import dashboard
 from pages import clientes
 from pages import vendas
 from pages import mapa
-
+from pages import tecnicos
+from pages import rede
+from pages import chamados
+from pages import financeiro
+from pages import frota
 # =========================
 # APP
 # =========================
@@ -124,6 +127,15 @@ sidebar = html.Div([
             active="exact"
 
         ),
+            dbc.NavLink(
+
+            "🚗 Frota",
+
+             href="/frota",
+
+             active="exact"
+
+        ),
 
         dbc.NavLink(
 
@@ -147,30 +159,41 @@ sidebar = html.Div([
 
         dbc.NavLink(
 
-            "🌎 Mapa Telecom",
+    "🌎 Mapa Telecom",
 
-            href="/mapa",
+    href="/mapa",
 
-            active="exact"
+    active="exact"
 
-        ),
+),
 
-        dbc.NavLink(
+   dbc.NavLink(
 
-            "🚨 Alertas",
+    "👨‍🔧 Técnicos",
 
-            href="#"
+    href="/tecnicos",
 
-        ),
+    active="exact"
 
-        dbc.NavLink(
+),
 
-            "📡 Rede",
+dbc.NavLink(
 
-            href="#"
+    "📡 Rede",
 
-        ),
+    href="/rede",
 
+    active="exact"
+
+),
+
+dbc.NavLink(
+
+     "🚨 Alertas",
+
+     href="#"
+
+),
         dbc.NavLink(
 
             "🛰️ ONU Offline",
@@ -181,12 +204,23 @@ sidebar = html.Div([
 
         dbc.NavLink(
 
-            "📞 Chamados",
+         "📞 Chamados",
 
-            href="#"
+        href="/chamados",
 
-        ),
+        active="exact"
 
+),
+
+        dbc.NavLink(
+
+         "💵 Financeiro",
+
+        href="/financeiro",
+
+          active="exact"
+
+),
         dbc.NavLink(
 
             "⚙️ Configurações",
@@ -374,12 +408,32 @@ def render_page(pathname):
         return clientes.layout()
 
     elif pathname == "/vendas":
+           
+           return vendas.layout()
+    
+    elif pathname == "/frota":
+        
+        return frota.layout()
 
-        return vendas.layout()
+    elif pathname == "/chamados":
+
+        return chamados.layout()
+
+    elif pathname == "/financeiro":
+
+        return financeiro.layout()
 
     elif pathname == "/mapa":
 
         return mapa.layout()
+
+    elif pathname == "/tecnicos":
+
+        return tecnicos.layout()
+
+    elif pathname == "/rede":
+
+        return rede.layout()
 
     else:
 
